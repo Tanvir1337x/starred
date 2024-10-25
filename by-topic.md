@@ -2748,6 +2748,15 @@
 
 ## others 
 
+- [adamdecaf/deadcheck](https://github.com/adamdecaf/deadcheck) - dead mans switch without reliance on your system
+- [qist/xray-ui](https://github.com/qist/xray-ui) - 
+- [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
+- [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) - Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.
+- [hiddify/hiddify-next](https://github.com/hiddify/hiddify-next) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
+- [EightDoor/siyuan](https://github.com/EightDoor/siyuan) - siyuan 去除更新提示、去除用户相关内容，可以云端同步
+- [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk) - The Next Generation of Anti-Rookit(ARK) tool for Windows.
+- [google-deepmind/synthid-text](https://github.com/google-deepmind/synthid-text) - 
+- [origin-space/originui](https://github.com/origin-space/originui) - 
 - [haystackeditor/haystack-editor](https://github.com/haystackeditor/haystack-editor) - 
 - [hyprwm/hyprpolkitagent](https://github.com/hyprwm/hyprpolkitagent) - A polkit authentication agent written in QT/QML
 - [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer [RAPR]
@@ -3120,7 +3129,7 @@
 - [cprussin/mkCli](https://github.com/cprussin/mkCli) - Simple development environment cli generator for nix
 - [RealityAnomaly/nix-rebar](https://github.com/RealityAnomaly/nix-rebar) - common, public utilities and tools shared by my Nix projects
 - [Primer-Learning/PrimerToolsUnity](https://github.com/Primer-Learning/PrimerToolsUnity) - Tool used for producing Primer YouTube videos
-- [nvtransfer/RULER](https://github.com/nvtransfer/RULER) - This repo contains the source code for RULER: What’s the Real Context Size of Your Long-Context Language Models?
+- [NVIDIA/RULER](https://github.com/NVIDIA/RULER) - This repo contains the source code for RULER: What’s the Real Context Size of Your Long-Context Language Models?
 - [cgsdev0/termsand](https://github.com/cgsdev0/termsand) - falling sand sim for tmux 3.4+
 - [nix-community/nix-ld-rs](https://github.com/nix-community/nix-ld-rs) - Run unpatched dynamic binaries on NixOS [maintainer=@zhaofengli @Mic92]
 - [nix-community/nix-ld](https://github.com/nix-community/nix-ld) - Run unpatched dynamic binaries on NixOS [maintainer=@Mic92]
