@@ -36,6 +36,7 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
+- [clojure](#clojure)
 - [code](#code)
 - [code-review](#code-review)
 - [compiler](#compiler)
@@ -237,17 +238,18 @@
 
 ## 3d 
 
+- [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [cocos/cocos-engine](https://github.com/cocos/cocos-engine) - Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games 
 - [Blecki/dwarfcorp](https://github.com/Blecki/dwarfcorp) - An open-source 3D colony management game for PC, Mac and Linux
 - [Kavex/GameDev-Resources](https://github.com/Kavex/GameDev-Resources) - :video_game: :game_die: A wonderful list of Game Development resources.
 - [pioneerspacesim/pioneer](https://github.com/pioneerspacesim/pioneer) - A game of lonely space adventure
 - [cosmonium/cosmonium](https://github.com/cosmonium/cosmonium) - 3D astronomy and space exploration program.
-- [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 
 ## ai 
 
+- [kartben/artificial-nose](https://github.com/kartben/artificial-nose) - Instructions, source code, and misc. resources needed for building a Tiny ML-powered artificial nose.
 - [meta-llama/llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a 
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [rbourgeat/airay](https://github.com/rbourgeat/airay) - A simple AI detector (Image & Text)
@@ -399,6 +401,7 @@
 
 ## angular 
 
+- [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 
 ## ansible 
@@ -422,6 +425,7 @@
 
 ## archlinux 
 
+- [adi1090x/uGRUB](https://github.com/adi1090x/uGRUB) - Create an ultimate multiboot USB flash drive with Grub2 bootloader
 - [saimoomedits/dotfiles](https://github.com/saimoomedits/dotfiles) - The ArchLinux and AwesomeWM configs. 📂
 - [raexera/yoru](https://github.com/raexera/yoru) - A custom Linux environment built on AwesomeWM
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
@@ -467,6 +471,8 @@
 
 ## automation 
 
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
+- [dhamaniasad/HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - A list of (almost) all headless web browsers in existence
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts local and web research on any topic and generates a comprehensive report with citations.
 - [GTrunSec/hivebus](https://github.com/GTrunSec/hivebus) - A declarative configuration framework based on the structural theory of std.
@@ -484,6 +490,9 @@
 
 ## awesome 
 
+- [mcicolella/awesome-emulators-simulators](https://github.com/mcicolella/awesome-emulators-simulators) - A curated list of software emulators and simulators of PCs, home computers, mainframes, consoles, robots and much more...
+- [alnacle/awesome-emulators](https://github.com/alnacle/awesome-emulators) - A curated list of awesome open source emulators.
+- [firasuke/awesome](https://github.com/firasuke/awesome) - A curated list of awesome projects
 - [dogancelik/awesome-bookmarking](https://github.com/dogancelik/awesome-bookmarking) - 🔖 Everything bookmarking related
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
@@ -522,6 +531,8 @@
 
 ## awesome-list 
 
+- [mcicolella/awesome-emulators-simulators](https://github.com/mcicolella/awesome-emulators-simulators) - A curated list of software emulators and simulators of PCs, home computers, mainframes, consoles, robots and much more...
+- [alnacle/awesome-emulators](https://github.com/alnacle/awesome-emulators) - A curated list of awesome open source emulators.
 - [dogancelik/awesome-bookmarking](https://github.com/dogancelik/awesome-bookmarking) - 🔖 Everything bookmarking related
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
@@ -574,6 +585,7 @@
 
 ## bash 
 
+- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [D3Ext/WEF](https://github.com/D3Ext/WEF) - Wi-Fi Exploitation Framework
 - [bugy/script-server](https://github.com/bugy/script-server) - Web UI for your scripts with execution management
@@ -598,12 +610,14 @@
 
 ## bitcoin 
 
+- [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [spesmilo/electrum](https://github.com/spesmilo/electrum) - Electrum Bitcoin Wallet
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [fort-nix/nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) - A collection of Nix packages and NixOS modules for easily installing full-featured Bitcoin nodes with an emphasis on security.
 
 ## blockchain 
 
+- [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [kadenzipfel/smart-contract-vulnerabilities](https://github.com/kadenzipfel/smart-contract-vulnerabilities) - A collection of smart contract vulnerabilities along with prevention methods
 - [AleoNet/snarkOS](https://github.com/AleoNet/snarkOS) - A Decentralized Operating System for ZK Applications
 - [GNU-Linux-libre/Awesome-VPN-Network](https://github.com/GNU-Linux-libre/Awesome-VPN-Network) - The best vpn service 2022 Lifetime free anonymous Awesome dVPN foss Network decentralized Ethereum Blockchain DHT-VPN Peer-to-peer open-source
@@ -625,6 +639,9 @@
 
 ## c 
 
+- [taisei-project/taisei](https://github.com/taisei-project/taisei) - A free and open-source Touhou Project fangame
+- [tinyalsa/tinyalsa](https://github.com/tinyalsa/tinyalsa) - Tiny library to interface with ALSA in the Linux kernel
+- [virtio-win/kvm-guest-drivers-windows](https://github.com/virtio-win/kvm-guest-drivers-windows) - Windows paravirtualized drivers for QEMU\KVM
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [ruby/ruby](https://github.com/ruby/ruby) - The Ruby Programming Language
@@ -657,6 +674,12 @@
 
 ## c-plus-plus 
 
+- [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
+- [quotient-im/Quaternion](https://github.com/quotient-im/Quaternion) - A Qt-based IM client for Matrix
+- [verhoevenv/OpenNotrium](https://github.com/verhoevenv/OpenNotrium) - Code and bugfixes for Instant Kingdom's Notrium, a topdown survival game
+- [martinus/robin-hood-hashing](https://github.com/martinus/robin-hood-hashing) - Fast & memory efficient hashtable based on robin hood hashing for C++11/14/17/20
+- [virtio-win/kvm-guest-drivers-windows](https://github.com/virtio-win/kvm-guest-drivers-windows) - Windows paravirtualized drivers for QEMU\KVM
+- [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [amhndu/SimpleNES](https://github.com/amhndu/SimpleNES) - An NES emulator in C++
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -672,7 +695,6 @@
 - [MultiMC/Launcher](https://github.com/MultiMC/Launcher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [ccache/ccache](https://github.com/ccache/ccache) - ccache – a fast compiler cache
-- [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -722,6 +744,7 @@
 
 ## chrome 
 
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [mathix420/free-the-web-apps](https://github.com/mathix420/free-the-web-apps) - Turn any website into an app in seconds!
 - [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace Notion
@@ -787,6 +810,10 @@
 - [instill-ai/instill-core](https://github.com/instill-ai/instill-core) - 🔮 Instill Core is a full-stack AI infrastructure tool for data, model and pipeline orchestration, designed to streamline every aspect of building versatile AI-first applications
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 
+## clojure 
+
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+
 ## code 
 
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
@@ -851,6 +878,9 @@
 
 ## cpp 
 
+- [Supercip971/WingOS](https://github.com/Supercip971/WingOS) - a little 64bit operating system written in c++ with smp support
+- [Mudlet/Mudlet](https://github.com/Mudlet/Mudlet) - ⚔️ A cross-platform, open source, and super fast MUD client with scripting in Lua
+- [martinus/robin-hood-hashing](https://github.com/martinus/robin-hood-hashing) - Fast & memory efficient hashtable based on robin hood hashing for C++11/14/17/20
 - [Qv2ray/Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:
 - [ajeetdsouza/pifs](https://github.com/ajeetdsouza/pifs) - The compile-time, data-free filesystem.
 - [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines
@@ -927,6 +957,10 @@
 
 ## css 
 
+- [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli
+- [fellowish/firefox-review](https://github.com/fellowish/firefox-review) - A Firefox Preview inspired theme for desktop
+- [not-holar/my_firefox_theme](https://github.com/not-holar/my_firefox_theme) - A theme that aims to look nice and clean while not compromising functionality.
+- [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox Theme - For dark theme lovers / More compact / Modular / Blur
 - [Godiesc/firefox-one](https://github.com/Godiesc/firefox-one) - Firefox Theme for Opera One skin Lovers
 - [Shina-SG/Shina-Fox](https://github.com/Shina-SG/Shina-Fox) - A Minimal, Cozy, Vertical Optimized Firefox Theme
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -1117,6 +1151,7 @@
 
 ## discord 
 
+- [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
 - [Moosync/Moosync](https://github.com/Moosync/Moosync) - Music player capable of playing local audio or from Youtube, Spotify and many more
 - [KaylorBen/nixcord](https://github.com/KaylorBen/nixcord) - Declarative Vencord plugins + options
@@ -1222,6 +1257,7 @@
 
 ## electron 
 
+- [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
@@ -1266,6 +1302,9 @@
 
 ## emulator 
 
+- [mcicolella/awesome-emulators-simulators](https://github.com/mcicolella/awesome-emulators-simulators) - A curated list of software emulators and simulators of PCs, home computers, mainframes, consoles, robots and much more...
+- [alnacle/awesome-emulators](https://github.com/alnacle/awesome-emulators) - A curated list of awesome open source emulators.
+- [fcambus/jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language
 - [amhndu/SimpleNES](https://github.com/amhndu/SimpleNES) - An NES emulator in C++
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 
@@ -1288,6 +1327,9 @@
 
 ## firefox 
 
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
+- [not-holar/my_firefox_theme](https://github.com/not-holar/my_firefox_theme) - A theme that aims to look nice and clean while not compromising functionality.
+- [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox Theme - For dark theme lovers / More compact / Modular / Blur
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [Godiesc/firefox-one](https://github.com/Godiesc/firefox-one) - Firefox Theme for Opera One skin Lovers
@@ -1347,6 +1389,7 @@
 
 ## font 
 
+- [hchargois/gohufont](https://github.com/hchargois/gohufont) - A monospace bitmap font.
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
 - [oppiliappan/scientifica](https://github.com/oppiliappan/scientifica) - tall, condensed, bitmap font for geeks
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
@@ -1378,6 +1421,10 @@
 
 ## game 
 
+- [Mudlet/Mudlet](https://github.com/Mudlet/Mudlet) - ⚔️ A cross-platform, open source, and super fast MUD client with scripting in Lua
+- [taisei-project/taisei](https://github.com/taisei-project/taisei) - A free and open-source Touhou Project fangame
+- [OpenFodder/openfodder](https://github.com/OpenFodder/openfodder) - Open Fodder: An open source port of Cannon Fodder
+- [verhoevenv/OpenNotrium](https://github.com/verhoevenv/OpenNotrium) - Code and bugfixes for Instant Kingdom's Notrium, a topdown survival game
 - [Y0URD34TH/Project-GLD](https://github.com/Y0URD34TH/Project-GLD) - Project GLD is a game library and download manager, which supports community made Lua scripts for downloading and searching games.
 - [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14) - A multiplayer game about paranoia and chaos on a space station. Remake of the cult-classic Space Station 13.
 - [tobspr-games/shapez.io](https://github.com/tobspr-games/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
@@ -1419,6 +1466,7 @@
 
 ## game-development 
 
+- [ValveSoftware/GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) - Reliable & unreliable messages over UDP.  Robust message fragmentation & reassembly.  P2P networking / NAT traversal.  Encryption.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [cocos/cocos-engine](https://github.com/cocos/cocos-engine) - Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games 
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
@@ -1486,6 +1534,7 @@
 
 ## git 
 
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
@@ -1522,6 +1571,7 @@
 
 ## go 
 
+- [shomali11/go-interview](https://github.com/shomali11/go-interview) - Collection of Technical Interview Questions solved with Go
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
@@ -1562,6 +1612,7 @@
 
 ## golang 
 
+- [shomali11/go-interview](https://github.com/shomali11/go-interview) - Collection of Technical Interview Questions solved with Go
 - [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -1660,6 +1711,13 @@
 
 ## hacktoberfest 
 
+- [quotient-im/Quaternion](https://github.com/quotient-im/Quaternion) - A Qt-based IM client for Matrix
+- [element-hq/element-android](https://github.com/element-hq/element-android) - A Matrix collaboration client for Android.
+- [Mudlet/Mudlet](https://github.com/Mudlet/Mudlet) - ⚔️ A cross-platform, open source, and super fast MUD client with scripting in Lua
+- [mcicolella/awesome-emulators-simulators](https://github.com/mcicolella/awesome-emulators-simulators) - A curated list of software emulators and simulators of PCs, home computers, mainframes, consoles, robots and much more...
+- [leftwm/leftwm-theme](https://github.com/leftwm/leftwm-theme) - A tool to help manage themes for LeftWM
+- [Murzchnvok/rofi-collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes
+- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -1891,6 +1949,7 @@
 
 ## iot 
 
+- [kartben/artificial-nose](https://github.com/kartben/artificial-nose) - Instructions, source code, and misc. resources needed for building a Tiny ML-powered artificial nose.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [StarmoonAI/Starmoon](https://github.com/StarmoonAI/Starmoon) - An open source voice-enabled, compact, empathic AI hardware + software 🤖 framework for companionship, entertainment, education, pediatric care, IoT robotics applications, AI-enhanced robotics applicat
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
@@ -1898,6 +1957,7 @@
 
 ## ipfs 
 
+- [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
 
 ## java 
@@ -1926,6 +1986,8 @@
 
 ## javascript 
 
+- [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
+- [fcambus/jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) - Telegram Web A, GPL v3
@@ -2044,6 +2106,12 @@
 
 ## linux 
 
+- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
+- [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
+- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
+- [adi1090x/uGRUB](https://github.com/adi1090x/uGRUB) - Create an ultimate multiboot USB flash drive with Grub2 bootloader
+- [Mudlet/Mudlet](https://github.com/Mudlet/Mudlet) - ⚔️ A cross-platform, open source, and super fast MUD client with scripting in Lua
+- [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
 - [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
@@ -2145,7 +2213,6 @@
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🥧 The Cross-Platform Pie Menu.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
-- [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
@@ -2283,6 +2350,7 @@
 
 ## lua 
 
+- [Mudlet/Mudlet](https://github.com/Mudlet/Mudlet) - ⚔️ A cross-platform, open source, and super fast MUD client with scripting in Lua
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort
 - [mora9715/haproxy_ddos_protector](https://github.com/mora9715/haproxy_ddos_protector) - DDoS protection system PoC for HaProxy
 - [HDoujinDownloader/HDoujinDownloader](https://github.com/HDoujinDownloader/HDoujinDownloader) - An easy-to-use manga and dōjinshi downloader supporting 1000+ different websites
@@ -2391,6 +2459,8 @@
 
 ## macos 
 
+- [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
+- [Mudlet/Mudlet](https://github.com/Mudlet/Mudlet) - ⚔️ A cross-platform, open source, and super fast MUD client with scripting in Lua
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [openandroidinstaller-dev/openandroidinstaller](https://github.com/openandroidinstaller-dev/openandroidinstaller) - Makes installing alternative Android distributions nice and easy.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
@@ -2419,7 +2489,6 @@
 - [Materialious/Materialious](https://github.com/Materialious/Materialious) - Modern material design for Invidious.
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🥧 The Cross-Platform Pie Menu.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-- [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
@@ -2437,6 +2506,8 @@
 
 ## markdown 
 
+- [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
@@ -2518,6 +2589,7 @@
 
 ## music 
 
+- [pragha-music-player/pragha](https://github.com/pragha-music-player/pragha) - Pragha is a Lightweight Music Player for GNU/Linux.
 - [wotakumoe/wotaku](https://github.com/wotakumoe/wotaku) - An otaku index for everything!
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
@@ -2641,6 +2713,7 @@
 
 ## nodejs 
 
+- [Legcord/Legcord](https://github.com/Legcord/Legcord) - Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [webtorrent/bittorrent-dht](https://github.com/webtorrent/bittorrent-dht) - 🕸 Simple, robust, BitTorrent DHT implementation
 - [tgxn/lemmy-explorer](https://github.com/tgxn/lemmy-explorer) - Instance and Community Explorer for Lemmy
@@ -2748,6 +2821,8 @@
 
 ## opengl 
 
+- [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
+- [taisei-project/taisei](https://github.com/taisei-project/taisei) - A free and open-source Touhou Project fangame
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
@@ -2757,10 +2832,10 @@
 - [crosire/reshade](https://github.com/crosire/reshade) - A generic post-processing injector for games and video software.
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 - [CelestiaProject/Celestia](https://github.com/CelestiaProject/Celestia) - Real-time 3D visualization of space.
-- [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 
 ## operating-system 
 
+- [Supercip971/WingOS](https://github.com/Supercip971/WingOS) - a little 64bit operating system written in c++ with smp support
 - [hackclub/RAM-a-thon](https://github.com/hackclub/RAM-a-thon) - Just a detailed in-depth, and comprehensive explanation of how computers operate internally, focusing on RAM and CPU aspects, respectively. By @ILyesMk2
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
@@ -2780,6 +2855,47 @@
 
 ## others 
 
+- [uwu/shelter](https://github.com/uwu/shelter) - an attempt to prepare for the worst
+- [abrt/abrt](https://github.com/abrt/abrt) - Automatic bug detection and reporting tool
+- [reed-hong/awesome-libra](https://github.com/reed-hong/awesome-libra) - A Curated List of Awesome Facebook Libra Resources
+- [natpen/awesome-wayland](https://github.com/natpen/awesome-wayland) - A curated list of Wayland code and resources.
+- [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
+- [discord/discord-open-source](https://github.com/discord/discord-open-source) - List of open source communities living on Discord
+- [KDE/krita](https://github.com/KDE/krita) - Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks.
+- [GNOME/gimp](https://github.com/GNOME/gimp) - Read-only mirror of https://gitlab.gnome.org/GNOME/gimp
+- [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) - OpenToonz - An open-source full-featured 2D animation creation software
+- [notofonts/noto-cjk](https://github.com/notofonts/noto-cjk) - Noto CJK fonts
+- [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji) - Noto Emoji fonts
+- [palinek/nm-tray](https://github.com/palinek/nm-tray) - NetworkManager tray icon -&gt; simple front end (nm-applet)
+- [Diaoul/subliminal](https://github.com/Diaoul/subliminal) - Subtitles, faster than your thoughts
+- [royaltm/rust-plasma](https://github.com/royaltm/rust-plasma) - An eye-candy pixel plasma randomized generator - for the desktop and the web.
+- [willardf/Hazel-Networking](https://github.com/willardf/Hazel-Networking) - Hazel Networking is a low level networking library for C# providing connection-oriented, message-based communication via RUDP.
+- [taganaka/SpeedTest](https://github.com/taganaka/SpeedTest) - Yet another unofficial speedtest.net client cli interface
+- [donadigo/appeditor](https://github.com/donadigo/appeditor) - Edit application menu
+- [gentoo-mirror/gentoo](https://github.com/gentoo-mirror/gentoo) - Official Gentoo ebuild repository
+- [u-boot/u-boot](https://github.com/u-boot/u-boot) - "Das U-Boot" Source Tree
+- [joeknock90/Single-GPU-Passthrough](https://github.com/joeknock90/Single-GPU-Passthrough) - 
+- [wine-mirror/wine](https://github.com/wine-mirror/wine) - 
+- [wine-staging/wine-staging](https://github.com/wine-staging/wine-staging) - Staging repository for Wine; mirror of https://gitlab.winehq.org/wine/wine-staging - Bugtracker and Patches: https://bugs.winehq.org/
+- [kdave/btrfs-progs](https://github.com/kdave/btrfs-progs) - Development of userspace BTRFS tools
+- [mirror/busybox](https://github.com/mirror/busybox) - BusyBox mirror
+- [est31/cargo-udeps](https://github.com/est31/cargo-udeps) - Find unused dependencies in Cargo.toml
+- [eez-open/psu-hw](https://github.com/eez-open/psu-hw) - EEZ H24005 programmable bench power supply (powered by Arduino Due)
+- [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
+- [vmonaco/kloak](https://github.com/vmonaco/kloak) - Keystroke-level online anonymization kernel: obfuscates typing behavior at the device level.
+- [libratbag/piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
+- [gentoo-mirror/guru](https://github.com/gentoo-mirror/guru) - GURU: Ebuild repository entirely maintained by Gentoo users
+- [astrofrog/psrecord](https://github.com/astrofrog/psrecord) - Record the CPU and memory activity of a process :chart_with_upwards_trend:
+- [instantOS/instantNIX](https://github.com/instantOS/instantNIX) - instantOS tools packaged for the Nix package manager (and NixOS)
+- [zenixls2/alacritty](https://github.com/zenixls2/alacritty) - A cross-platform, GPU-accelerated terminal emulator
+- [slavistan/dwm-dynamicswallow-patch](https://github.com/slavistan/dwm-dynamicswallow-patch) - Bring scriptable window swallowing to dwm!
+- [ifduyue/musl](https://github.com/ifduyue/musl) - unofficial musl mirror git://git.musl-libc.org/musl
+- [facebookincubator/oomd](https://github.com/facebookincubator/oomd) - A userspace out-of-memory killer
+- [derf/feh](https://github.com/derf/feh) - a fast and light image viewer
+- [rms-open-letter/rms-open-letter.github.io](https://github.com/rms-open-letter/rms-open-letter.github.io) - 
+- [0x90d/videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Video Duplicate Finder - Crossplatform
+- [SysSec-KAIST/LTESniffer](https://github.com/SysSec-KAIST/LTESniffer) - An Open-source LTE Downlink/Uplink Eavesdropper
+- [Stability-AI/sd3.5](https://github.com/Stability-AI/sd3.5) - 
 - [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
 - [xaitax/Chrome-App-Bound-Encryption-Decryption](https://github.com/xaitax/Chrome-App-Bound-Encryption-Decryption) - Tool to decrypt App-Bound encrypted keys in Chrome 127+, using the IElevator COM interface with path validation and encryption protections.
 - [angelbruni/Geckium](https://github.com/angelbruni/Geckium) - Chrome 1 - 58 theme for Firefox 115+
@@ -2794,7 +2910,7 @@
 - [qist/xray-ui](https://github.com/qist/xray-ui) - 
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
 - [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) - Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.
-- [hiddify/hiddify-next](https://github.com/hiddify/hiddify-next) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
+- [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 - [EightDoor/siyuan](https://github.com/EightDoor/siyuan) - siyuan 去除更新提示、去除用户相关内容，可以云端同步
 - [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk) - The Next Generation of Anti-Rookit(ARK) tool for Windows.
 - [google-deepmind/synthid-text](https://github.com/google-deepmind/synthid-text) - 
@@ -2829,7 +2945,6 @@
 - [ThinamXx/PaliGemma](https://github.com/ThinamXx/PaliGemma) - Reading PaliGemma paper ...
 - [codereport/array-language-comparisons](https://github.com/codereport/array-language-comparisons) - A comparison of array languages & libraries: APL, J, BQN, Uiua, Q, Julia, R, NumPy, Nial, Futhark, Dex, Ivy, SaC & ArrayFire.
 - [minimal-manifest-twrp/platform_manifest_twrp_aosp](https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp) - Minimal manifest for building TWRP for devices shipped with Android 10+
-- [BiTGApps/BiTGApps-Release](https://github.com/BiTGApps/BiTGApps-Release) - 
 - [nikgapps/project](https://github.com/nikgapps/project) - 
 - [nikgapps/config](https://github.com/nikgapps/config) - 
 - [MindTheGapps/15.0.0-arm64](https://github.com/MindTheGapps/15.0.0-arm64) - 
@@ -3638,7 +3753,7 @@
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [SafeAILab/EAGLE](https://github.com/SafeAILab/EAGLE) - Official Implementation of EAGLE-1 (ICML'24) and EAGLE-2 (EMNLP'24)
-- [janhq/cortex.cpp](https://github.com/janhq/cortex.cpp) - Run and customize Local LLMs.
+- [janhq/cortex.cpp](https://github.com/janhq/cortex.cpp) - Local AI API Platform
 - [bbycroft/llm-viz](https://github.com/bbycroft/llm-viz) - 3D Visualization of an GPT-style LLM
 - [hao-ai-lab/LookaheadDecoding](https://github.com/hao-ai-lab/LookaheadDecoding) - [ICML 2024] Break the Sequential Dependency of LLM Inference Using Lookahead Decoding
 - [PKU-YuanGroup/Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA) - 【EMNLP 2024🔥】Video-LLaVA: Learning United Visual Representation by Alignment Before Projection
@@ -3698,6 +3813,8 @@
 
 ## p2p 
 
+- [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
+- [loro-dev/loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Make your app collaborative effortlessly.
 - [BiglySoftware/BiglyBT](https://github.com/BiglySoftware/BiglyBT) - Feature-filled Bittorrent client based on the Azureus open source project
 - [webtorrent/bittorrent-dht](https://github.com/webtorrent/bittorrent-dht) - 🕸 Simple, robust, BitTorrent DHT implementation
 - [nicotine-plus/nicotine-plus](https://github.com/nicotine-plus/nicotine-plus) - Graphical client for the Soulseek peer-to-peer network
@@ -3792,6 +3909,8 @@
 
 ## privacy 
 
+- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
+- [TryQuiet/quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -3856,6 +3975,7 @@
 
 ## pwa 
 
+- [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 - [MananTank/cybertype](https://github.com/MananTank/cybertype) - A Fast & Minimal Typing App
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place.
@@ -3863,6 +3983,9 @@
 
 ## python 
 
+- [ful1e5/clickgen](https://github.com/ful1e5/clickgen) - The hassle-free cursor building toolbox.
+- [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
+- [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
 - [meta-llama/llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a 
 - [ucbepic/docetl](https://github.com/ucbepic/docetl) - A system for agentic LLM-powered data processing and ETL
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
@@ -4048,6 +4171,9 @@
 
 ## qt 
 
+- [quotient-im/Quaternion](https://github.com/quotient-im/Quaternion) - A Qt-based IM client for Matrix
+- [Mudlet/Mudlet](https://github.com/Mudlet/Mudlet) - ⚔️ A cross-platform, open source, and super fast MUD client with scripting in Lua
+- [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [bit-team/backintime](https://github.com/bit-team/backintime) - Back In Time - An easy-to-use backup tool for GNU/Linux using rsync in the back
@@ -4145,6 +4271,7 @@
 
 ## robotics 
 
+- [mcicolella/awesome-emulators-simulators](https://github.com/mcicolella/awesome-emulators-simulators) - A curated list of software emulators and simulators of PCs, home computers, mainframes, consoles, robots and much more...
 - [BehaviorTree/BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) - Behavior Trees Library in C++. Batteries included.
 - [p-org/P](https://github.com/p-org/P) - The P programming language.
 - [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) - ArduPlane, ArduCopter, ArduRover, ArduSub source
@@ -4168,6 +4295,9 @@
 
 ## rust 
 
+- [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
+- [Cogitri/Tau](https://github.com/Cogitri/Tau) - GTK frontend for the xi text editor, written in Rust
+- [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [Watfaq/clash-rs](https://github.com/Watfaq/clash-rs) - custom protocol network proxy
@@ -4546,6 +4676,8 @@
 
 ## testing 
 
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
+- [dhamaniasad/HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - A list of (almost) all headless web browsers in existence
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 
 ## twitter 
@@ -4558,6 +4690,7 @@
 
 ## typescript 
 
+- [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
@@ -4588,6 +4721,9 @@
 
 ## ubuntu 
 
+- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
+- [systemd/mkosi](https://github.com/systemd/mkosi) - 💽 Build Bespoke OS Images
+- [adi1090x/uGRUB](https://github.com/adi1090x/uGRUB) - Create an ultimate multiboot USB flash drive with Grub2 bootloader
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
@@ -4655,6 +4791,8 @@
 
 ## web 
 
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
+- [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [lshqqytiger/stable-diffusion-webui-amdgpu](https://github.com/lshqqytiger/stable-diffusion-webui-amdgpu) - Stable Diffusion web UI
 - [mathix420/free-the-web-apps](https://github.com/mathix420/free-the-web-apps) - Turn any website into an app in seconds!
@@ -4702,6 +4840,10 @@
 
 ## windows 
 
+- [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
+- [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
+- [Mudlet/Mudlet](https://github.com/Mudlet/Mudlet) - ⚔️ A cross-platform, open source, and super fast MUD client with scripting in Lua
+- [virtio-win/kvm-guest-drivers-windows](https://github.com/virtio-win/kvm-guest-drivers-windows) - Windows paravirtualized drivers for QEMU\KVM
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 - [openandroidinstaller-dev/openandroidinstaller](https://github.com/openandroidinstaller-dev/openandroidinstaller) - Makes installing alternative Android distributions nice and easy.
@@ -4773,7 +4915,6 @@
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis is a download manager written in Python.
 - [Open-Shell/Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn.
-- [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
