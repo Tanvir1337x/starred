@@ -502,6 +502,9 @@
 
 ## C++ 
 
+- [naz664/device_phh_treble](https://github.com/naz664/device_phh_treble) - Generic device tree for PHH Treble GSI's
+- [SelynCatto/RisingTreble](https://github.com/SelynCatto/RisingTreble) - WIP Device Tree for RisingOS Treble GSI
+- [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix) - Fix Play Integrity (and SafetyNet) verdicts.
 - [whoozle/android-file-transfer-linux](https://github.com/whoozle/android-file-transfer-linux) - Android File Transfer for Linux (and macOS!)
 - [chiteroman/TrickyStore](https://github.com/chiteroman/TrickyStore) - 
 - [RikkaApps/Riru](https://github.com/RikkaApps/Riru) - Inject into zygote process
@@ -1157,6 +1160,9 @@
 
 ## Java 
 
+- [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework resuscitated
+- [ElderDrivers/EdXposed](https://github.com/ElderDrivers/EdXposed) - Elder driver Xposed Framework.
+- [chiteroman/BootloaderSpoofer](https://github.com/chiteroman/BootloaderSpoofer) - Spoof locked bootloader on local attestations
 - [nelenkov/android-backup-extractor](https://github.com/nelenkov/android-backup-extractor) - Android backup extractor
 - [selendroid/selendroid](https://github.com/selendroid/selendroid) - "Selenium for Android" (Test automate native or hybrid Android apps and the mobile web with Selendroid.) Join us on IRC #selendroid on freenode. Also confirm you have signed the CLA http://goo.gl/pAvx
 - [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
@@ -1249,6 +1255,8 @@
 
 ## JavaScript 
 
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [collidingScopes/ascii](https://github.com/collidingScopes/ascii) - Turn videos into ASCII pixel art using js and html canvas
 - [phillmac/torrent-tracker-health](https://github.com/phillmac/torrent-tracker-health) - Get health info about a torrent file or magnet link
 - [1995parham/github-do-not-ban-us](https://github.com/1995parham/github-do-not-ban-us) - GitHub do not ban us from open source world :iran:
 - [positive-intentions/chat](https://github.com/positive-intentions/chat) - Decentralized chat
@@ -1282,7 +1290,6 @@
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [lacymorrow/album-art](https://github.com/lacymorrow/album-art) - 💽   Fetch cover art for an artist or album:  "The Beatles" ➔ http://path/to/beatles.jpg
 - [patrikx3/redis-ui](https://github.com/patrikx3/redis-ui) - 📡 P3X Redis UI: A highly functional and convenient database GUI that fits in your pocket, accessible on both responsive web and desktop applications.
-- [fschutt/printpdf](https://github.com/fschutt/printpdf) - A fully-featured PDF library for Rust, WASM-ready
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [cezaraugusto/You-Dont-Know-JS](https://github.com/cezaraugusto/You-Dont-Know-JS) - 📗📒 (PT-Br translation) JS Book Series.
@@ -1396,6 +1403,7 @@
 - [OpenAsar/arrpc](https://github.com/OpenAsar/arrpc) - Open Discord RPC server for atypical setups
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [GooseMod/OpenAsar](https://github.com/GooseMod/OpenAsar) - Open-source alternative of Discord desktop's app.asar
+- [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
@@ -1522,6 +1530,10 @@
 
 ## Kotlin 
 
+- [BaltiApps/Pixelify-Google-Photos](https://github.com/BaltiApps/Pixelify-Google-Photos) - Pixelify GPhotos
+- [Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet) - Ivy Wallet is an open-source money manager app for Android, no longer maintained. You can fork the code or download the final version from Google Play.
+- [imknown/AndroidLowLevelDetector](https://github.com/imknown/AndroidLowLevelDetector) - Detect Treble, GSI, Mainline, APEX, system-as-root(SAR), A/B, etc.
+- [phhusson/treble_app](https://github.com/phhusson/treble_app) - An app which will do various stuff for Treble ROMs
 - [syt0r/WifiPass](https://github.com/syt0r/WifiPass) - Android app. View saved wifi passwords (require root access)
 - [sol4k/sol4k](https://github.com/sol4k/sol4k) - Kotlin, Java, and Android client for Solana ⛓️
 - [JunkieLabs/sensify-android](https://github.com/JunkieLabs/sensify-android) - MPAndroidChart in Jetpack Compose and Kotlin Flow. This will let you see real-time charts of various sensors available inside android like accelerometer, magnetic, light sensor, etc.
@@ -1669,7 +1681,6 @@
 - [slembcke/debugger.lua](https://github.com/slembcke/debugger.lua) - A dependency free, embeddable debugger for Lua in a single file (.lua or .h)
 - [worron/awesome-config](https://github.com/worron/awesome-config) - Awesome WM config
 - [Stardust-kyun/calla](https://github.com/Stardust-kyun/calla) - Calla Desktop Environment
-- [Athena-OS/athena](https://github.com/Athena-OS/athena) - Athena OS is a Arch/Nix-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 - [andOrlando/rubato](https://github.com/andOrlando/rubato) - Create smooth animations with a slope curve for awesomeWM
 
@@ -1680,6 +1691,9 @@
 
 ## Makefile 
 
+- [ahnet-69/treble_voltage](https://github.com/ahnet-69/treble_voltage) - Patches used to build  VoltageOS as Trebledroid GSI.
+- [phhusson/device_phh_treble](https://github.com/phhusson/device_phh_treble) - Android device-tree for generic Treble target
+- [ahnet-69/treble_evo](https://github.com/ahnet-69/treble_evo) - Patches to build Evolution-X as Trebbledroid GSI.
 - [thirtythreeforty/businesscard-linux](https://github.com/thirtythreeforty/businesscard-linux) - A Buildroot distribution small enough to run on my business card
 - [kostya/benchmarks](https://github.com/kostya/benchmarks) - Some benchmarks of different languages
 - [TritonDataCenter/pkgsrc](https://github.com/TritonDataCenter/pkgsrc) - NetBSD/pkgsrc fork for our binary package repositories
@@ -1828,10 +1842,13 @@
 
 ## Others 
 
+- [chiteroman/Reprogram-TEE-on-Qualcomm-devices](https://github.com/chiteroman/Reprogram-TEE-on-Qualcomm-devices) - Guide to reprogram the TEE on Qualcomm devices to fix lost attestation keys
+- [5ec1cff/TrickyStore](https://github.com/5ec1cff/TrickyStore) - 
+- [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
 - [crdroidandroid/crdroid_features](https://github.com/crdroidandroid/crdroid_features) - our main features (why you love us)
 - [anandwana001/android-interview](https://github.com/anandwana001/android-interview) - 📚 Questions for Android Engineer Interview 📚
 - [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
-- [fynks/alldebrid-vs-realdebrid](https://github.com/fynks/alldebrid-vs-realdebrid) - A quick camprision of realdebid and alldebrid
+- [fynks/alldebrid-vs-realdebrid](https://github.com/fynks/alldebrid-vs-realdebrid) - A quick camprision of available hosts for AllDebrid, Real-Debrid, LinkSnappy, and Premiumize
 - [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - Curated list of awesome Android apps making use of root privileges
 - [RabehX/Securify](https://github.com/RabehX/Securify) - Yet Another detection application.
 - [rushiranpise/detection](https://github.com/rushiranpise/detection) - Collection of Various Root Detection Apps for Android
@@ -2190,7 +2207,7 @@
 - [pratyakshm/WinRice](https://github.com/pratyakshm/WinRice) - Set up your brand new Windows device up to a breathtaking 60 times faster.
 - [0x6d69636b/windows_hardening](https://github.com/0x6d69636b/windows_hardening) - HardeningKitty and Windows Hardening Settings
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve 
-- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module for fine-tuning Windows
 - [HotCakeX/WinSecureDNSMgr](https://github.com/HotCakeX/WinSecureDNSMgr) - WinSecureDNSMgr module | Quick, proper and automatic way to configure Secure DNS in Windows with multiple available operation modes
 - [HotCakeX/Privacy-Anonymity-Compartmentalization](https://github.com/HotCakeX/Privacy-Anonymity-Compartmentalization) - This GitHub repository explores the topics of privacy, anonymity and compartmentalization. These concepts are interrelated and essential for protecting one’s identity, data and online activities from 
 - [HotCakeX/MicrosoftDomains](https://github.com/HotCakeX/MicrosoftDomains) - This repository lists all active Microsoft domains | no URLs and no sub-domains | for the purpose of Whitelisting in various systems and apps | This is for my personal use but then decided to publish 
@@ -2205,6 +2222,8 @@
 
 ## Python 
 
+- [cohere-ai/cohere-finetune](https://github.com/cohere-ai/cohere-finetune) - A tool that facilitates easy, efficient and high-quality fine-tuning of Cohere's models
+- [erfanoabdi/ErfanGSIs](https://github.com/erfanoabdi/ErfanGSIs) - Just a tool to make GSI out of firmware from any phone
 - [EntySec/Ghost](https://github.com/EntySec/Ghost) - Ghost Framework is an Android post-exploitation framework that exploits the Android Debug Bridge to remotely access an Android device.
 - [androguard/androguard](https://github.com/androguard/androguard) - Reverse engineering and pentesting for Android applications
 - [vm03/payload_dumper](https://github.com/vm03/payload_dumper) - Android OTA payload dumper
@@ -2525,6 +2544,7 @@
 - [tanelpoder/0xtools](https://github.com/tanelpoder/0xtools) - 0x.Tools: X-Ray vision for Linux systems
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 - [realthunder/FreeCAD_assembly3](https://github.com/realthunder/FreeCAD_assembly3) - Experimental attempt for the next generation assembly workbench for FreeCAD
+- [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [datawhores/OF-Scraper](https://github.com/datawhores/OF-Scraper) - A completely revamped and redesigned fork, reimagined from scratch based on the original onlyfans-scraper
 - [adobe-research/VideoDoodles](https://github.com/adobe-research/VideoDoodles) - 
 - [neuml/rag](https://github.com/neuml/rag) - 🚀 Retrieval Augmented Generation (RAG) with txtai. Combine search and LLMs to find insights with your own data.
@@ -2936,7 +2956,7 @@
 - [mitnk/cicada](https://github.com/mitnk/cicada) - An old-school bash-like Unix shell written in Rust
 - [nivekuil/rip](https://github.com/nivekuil/rip) - A safe and ergonomic alternative to rm
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
-- [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
+- [skim-rs/skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust!
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
@@ -2983,6 +3003,7 @@
 - [RustCrypto/AEADs](https://github.com/RustCrypto/AEADs) - Authenticated Encryption with Associated Data Algorithms: high-level encryption ciphers
 - [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust
 - [deadlinks/cargo-deadlinks](https://github.com/deadlinks/cargo-deadlinks) - Cargo subcommand for checking your documentation for broken links
+- [fschutt/printpdf](https://github.com/fschutt/printpdf) - A fully-featured PDF library for Rust, WASM-ready
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [thepowersgang/rust_os](https://github.com/thepowersgang/rust_os) - An OS kernel written in rust. Non POSIX
 - [rusty-shell/rust-compress](https://github.com/rusty-shell/rust-compress) - Various compression algorithms written in rust.
@@ -3260,6 +3281,18 @@
 
 ## Shell 
 
+- [ChonDoit/treble_cherishos_patches](https://github.com/ChonDoit/treble_cherishos_patches) - Patches for build CherishOS as PHH-Treble GSI
+- [Archfx/duo-de](https://github.com/Archfx/duo-de) - Surface Duo Dual Experience (  🍰 AOSP | Android 15 | Treble GSI )
+- [ahnet-69/treble_yaap](https://github.com/ahnet-69/treble_yaap) - The patches used to build YAAP as trebledroid GSI
+- [ahnet-69/treble_rising](https://github.com/ahnet-69/treble_rising) - Build RisingOS as trebledroid gsi.
+- [KoysX/treble_DerpFest_GSI](https://github.com/KoysX/treble_DerpFest_GSI) - 
+- [mytja/treble_evo_patches](https://github.com/mytja/treble_evo_patches) - Patches for Treble EvolutionX generic target
+- [nitanmarcel/OEM-GSI-Builder](https://github.com/nitanmarcel/OEM-GSI-Builder) - Port OEM ROMs to project treble using github actions and ErfanGSIs then upload to sourceforge.
+- [naz664/ArrowOS_gsi](https://github.com/naz664/ArrowOS_gsi) - Script and patches for building PHH-Treble based ArrowOS GSI
+- [naz664/SparkOS_gsi](https://github.com/naz664/SparkOS_gsi) - Script and patches for building PHH-Treble based SparkOS GSI
+- [naz664/crDroid_gsi](https://github.com/naz664/crDroid_gsi) - Script and patches for building PHH-Treble based crDroid GSI
+- [xiaoleGun/treble_build_miku](https://github.com/xiaoleGun/treble_build_miku) - A script and patches to build Miku UI GSI
+- [mytja/treble_evo](https://github.com/mytja/treble_evo) - Manifest to build Evolution X GSI.
 - [FriendlyNeighborhoodShane/MinMicroG](https://github.com/FriendlyNeighborhoodShane/MinMicroG) - Sources and scripts for MinMicroG installers. You shall find no prebuilt releases here.
 - [sickcodes/Docker-eyeOS](https://github.com/sickcodes/Docker-eyeOS) - Run iPhone (xnu-arm64) in a Docker container! Supports KVM + iOS kernel debugging (GDB)! Run xnu-qemu-arm64 in Docker! Works on ANY device.
 - [sickcodes/droid-native](https://github.com/sickcodes/droid-native) - Next Generation Android x86 Desktop - Anbox, Lineage, WayDroid, BlissOS, Dock-Droid
@@ -3337,7 +3370,6 @@
 - [niksingh710/nsearch](https://github.com/niksingh710/nsearch) - Packages Search for Nixos/Nixpkgs
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [JackHack96/EasyEffects-Presets](https://github.com/JackHack96/EasyEffects-Presets) - Collection of PulseEffects presets
-- [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [bakkeby/flexipatch-finalizer](https://github.com/bakkeby/flexipatch-finalizer) - A custom pre-processor for removing non-selected patches from flexipatch builds leaving a final patched build
 - [sigoden/argc-completions](https://github.com/sigoden/argc-completions) - {bash,zsh,fish,powershell,nushell}-completions for 1000+ commands.
 - [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
@@ -3494,7 +3526,7 @@
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 - [yaakapp/app](https://github.com/yaakapp/app) - The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.
 - [microsoft/vscode-vsce](https://github.com/microsoft/vscode-vsce) - VS Code Extension Manager
-- [containers/podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
+- [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [Aylur/ags](https://github.com/Aylur/ags) - A customizable and extensible shell
