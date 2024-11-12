@@ -1866,6 +1866,7 @@
 
 ## Others 
 
+- [LineageOS/android](https://github.com/LineageOS/android) - 
 - [chiteroman/Reprogram-TEE-on-Qualcomm-devices](https://github.com/chiteroman/Reprogram-TEE-on-Qualcomm-devices) - Guide to reprogram the TEE on Qualcomm devices to fix lost attestation keys
 - [5ec1cff/TrickyStore](https://github.com/5ec1cff/TrickyStore) - 
 - [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
@@ -1873,7 +1874,7 @@
 - [anandwana001/android-interview](https://github.com/anandwana001/android-interview) - 📚 Questions for Android Engineer Interview 📚
 - [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
 - [fynks/alldebrid-vs-realdebrid](https://github.com/fynks/alldebrid-vs-realdebrid) - A quick camprision of available hosts for AllDebrid, Real-Debrid, LinkSnappy, and Premiumize
-- [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - Curated list of awesome Android apps making use of root privileges
+- [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - Curated list of Android apps making use of root privileges
 - [RabehX/Securify](https://github.com/RabehX/Securify) - Yet Another detection application.
 - [rushiranpise/detection](https://github.com/rushiranpise/detection) - Collection of Various Root Detection Apps for Android
 - [HuskyDG/magisk-files](https://github.com/HuskyDG/magisk-files) - 
@@ -2113,7 +2114,7 @@
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
 - [brunolee-GIT/W3M0dP4tch32](https://github.com/brunolee-GIT/W3M0dP4tch32) - W3M0dP4tch32 t0 P4tch W3M0d
-- [Poussinou/FLOSS-Games-on-Steam](https://github.com/Poussinou/FLOSS-Games-on-Steam) - A list of FLOSS games available on Steam (75 so far)
+- [Poussinou/FLOSS-Games-on-Steam](https://github.com/Poussinou/FLOSS-Games-on-Steam) - A list of FLOSS games, mods and software available on Steam (85 so far)
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
 - [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices) - A curated list of awesome unix user rices!
 - [avtzis/awesome-linux-ricing](https://github.com/avtzis/awesome-linux-ricing) - 🎨 Curated list of awesome themes, tools and apps for customizing the Linux environment.
@@ -2188,6 +2189,7 @@
 
 ## PHP 
 
+- [BOINC/boinc](https://github.com/BOINC/boinc) - Open-source software for volunteer computing and grid computing.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [JhumanJ/OpnForm](https://github.com/JhumanJ/OpnForm) - Beautiful Open-Source Form Builder
 - [nZEDb/nZEDb](https://github.com/nZEDb/nZEDb) - nZEDb - a fork of nnplus(2011) | NNTP / Usenet / Newsgroup indexer.
@@ -2246,6 +2248,7 @@
 
 ## Python 
 
+- [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
 - [open-feature/spec](https://github.com/open-feature/spec) - OpenFeature specification
 - [simple-bench/SimpleBench](https://github.com/simple-bench/SimpleBench) - 
 - [Coopydood/ultimate-macOS-KVM](https://github.com/Coopydood/ultimate-macOS-KVM) - Helping noobs and pros alike build the ultimate macOS virtual machine with easy automation, powered by KVM. Now with macOS Sequoia support!
@@ -2634,7 +2637,7 @@
 - [the-database/traiNNer-redux](https://github.com/the-database/traiNNer-redux) - Deep learning training framework for image super resolution and restoration.
 - [the-database/mpv-upscale-2x_animejanai](https://github.com/the-database/mpv-upscale-2x_animejanai) - Real-time anime upscaling to 4k in mpv with Real-ESRGAN compact models
 - [HelpSeeker/FSRCNN-TensorFlow](https://github.com/HelpSeeker/FSRCNN-TensorFlow) - An implementation of the Fast Super-Resolution Convolutional Neural Network in TensorFlow with a focus on artifact mitigation
-- [chapmanjacobd/library](https://github.com/chapmanjacobd/library) - 80+ CLI tools to build, browse, and blend your media library: an index for your archive.
+- [chapmanjacobd/library](https://github.com/chapmanjacobd/library) - 90+ CLI tools to build, browse, and blend your media library: an index for your archive.
 - [lucidrains/gigagan-pytorch](https://github.com/lucidrains/gigagan-pytorch) - Implementation of GigaGAN, new SOTA GAN out of Adobe. Culmination of nearly a decade of research into GANs
 - [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion + DreamBooth
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
@@ -2910,6 +2913,7 @@
 
 ## Roff 
 
+- [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Support for Armbian in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 ## RouterOS Script 
@@ -2919,6 +2923,7 @@
 
 ## Ruby 
 
+- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [TheAlgorithms/Ruby](https://github.com/TheAlgorithms/Ruby) - All algorithms implemented in Ruby
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [athityakumar/colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:
@@ -2941,6 +2946,7 @@
 
 ## Rust 
 
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [levkk/rwf](https://github.com/levkk/rwf) - Comprehensive framework for building web applications in Rust.
@@ -3244,7 +3250,7 @@
 - [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper
 - [SeaQL/FireDBG.for.Rust](https://github.com/SeaQL/FireDBG.for.Rust) - 🔥 Time Travel Visual Debugger for Rust
 - [a-b-street/abstreet](https://github.com/a-b-street/abstreet) - Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [freenet/freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
@@ -3490,6 +3496,8 @@
 
 ## TypeScript 
 
+- [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share) - A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.
+- [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - GitHub Action to deploy to GitHub Pages
 - [raidendotai/openv0](https://github.com/raidendotai/openv0) - AI generated UI components
 - [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
