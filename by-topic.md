@@ -83,6 +83,7 @@
 - [es6](#es6)
 - [ethereum](#ethereum)
 - [express](#express)
+- [finance](#finance)
 - [firebase](#firebase)
 - [firefox](#firefox)
 - [flask](#flask)
@@ -335,6 +336,7 @@
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 - [Pbatch/ClashRoyaleBuildABot](https://github.com/Pbatch/ClashRoyaleBuildABot) - A platform for creating bots to play Clash Royale
 - [AkshitIreddy/Interactive-LLM-Powered-NPCs](https://github.com/AkshitIreddy/Interactive-LLM-Powered-NPCs) - Interactive LLM Powered NPCs, is an open-source project that completely transforms your interaction with non-player characters (NPCs) in any game! 🎮🤖🚀
+- [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
 - [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
 - [mcmonkeyprojects/SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 - [natolambert/rlhf-book](https://github.com/natolambert/rlhf-book) - Textbook on reinforcement learning from human feedback
@@ -350,7 +352,6 @@
 - [cyberbotics/webots](https://github.com/cyberbotics/webots) - Webots Robot Simulator
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
-- [builtbybel/Winpilot](https://github.com/builtbybel/Winpilot) - The manic cousin of Microsoft Copilot
 - [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
 - [harvard-lil/warc-gpt](https://github.com/harvard-lil/warc-gpt) - WARC + AI - Experimental Retrieval Augmented Generation Pipeline for Web Archive Collections.
 - [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) - OpenVINO™ is an open-source toolkit for optimizing and deploying AI inference
@@ -448,6 +449,8 @@
 
 ## android 
 
+- [Benjamin-Dobell/Heimdall](https://github.com/Benjamin-Dobell/Heimdall) - Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung Galaxy devices.
+- [wacko1805/MagiskGapps](https://github.com/wacko1805/MagiskGapps) - Convert a regular GApps package into a Magisk flashable package using a simple website
 - [BOINC/boinc](https://github.com/BOINC/boinc) - Open-source software for volunteer computing and grid computing.
 - [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework resuscitated
 - [ElderDrivers/EdXposed](https://github.com/ElderDrivers/EdXposed) - Elder driver Xposed Framework.
@@ -611,6 +614,7 @@
 
 ## angular 
 
+- [floogulinc/hydrus-web](https://github.com/floogulinc/hydrus-web) - Web client for Hydrus
 - [SchizoDuckie/DuckieTV](https://github.com/SchizoDuckie/DuckieTV) - A web application built with AngularJS to track your favorite tv-shows with semi-automagic torrent integration
 - [lardbit/nefarious](https://github.com/lardbit/nefarious) - Web application for automatically downloading TV & Movies (w/ VPN)
 - [sudheerj/angular-interview-questions](https://github.com/sudheerj/angular-interview-questions) - List of 300 Angular Interview Questions and answers
@@ -664,6 +668,7 @@
 
 ## artificial-intelligence 
 
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - Containerized, state of the art Retrieval-Augmented Generation (RAG) with a RESTful API
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
 - [EthicalML/xai](https://github.com/EthicalML/xai) - XAI - An eXplainability toolbox for machine learning
 - [quark-engine/quark-engine](https://github.com/quark-engine/quark-engine) - Quark Agent - Your AI-powered Android APK Analyst
@@ -746,6 +751,7 @@
 
 ## awesome 
 
+- [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
 - [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - Curated list of Android apps making use of root privileges
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
@@ -848,6 +854,7 @@
 
 ## awesome-list 
 
+- [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [user1342/Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
 - [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - Curated list of Android apps making use of root privileges
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
@@ -1170,7 +1177,6 @@
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [InternLM/InternLM](https://github.com/InternLM/InternLM) - Official release of InternLM2.5 base and chat models. 1M context support
-- [builtbybel/Winpilot](https://github.com/builtbybel/Winpilot) - The manic cousin of Microsoft Copilot
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [modelscope/agentscope](https://github.com/modelscope/agentscope) - Start building LLM-empowered multi-agent applications in an easier way.
 - [stanford-oval/WikiChat](https://github.com/stanford-oval/WikiChat) - WikiChat is an improved RAG. It stops the hallucination of large language models by retrieving data from a corpus.
@@ -2147,6 +2153,10 @@
 
 - [ImDarkTom/ComfyUIMini](https://github.com/ImDarkTom/ComfyUIMini) - A mobile-friendly WebUI to run ComfyUI workflows.
 
+## finance 
+
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
+
 ## firebase 
 
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
@@ -2610,6 +2620,7 @@
 
 ## google 
 
+- [wacko1805/MagiskGapps](https://github.com/wacko1805/MagiskGapps) - Convert a regular GApps package into a Magisk flashable package using a simple website
 - [polodarb/GMS-Flags](https://github.com/polodarb/GMS-Flags) - GMS Flags is a tool for changing parameters in Google services to activate or deactivate certain functionality in Google applications
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [marcobiedermann/search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization) - 🔍 A helpful checklist/collection of Search Engine Optimization (SEO) tips and techniques.
@@ -2696,7 +2707,6 @@
 - [orhun/systeroid](https://github.com/orhun/systeroid) - A more powerful alternative to sysctl(8) with a terminal user interface 🐧
 - [orhun/daktilo](https://github.com/orhun/daktilo) - Turn your keyboard into a typewriter! 📇
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
-- [PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PlayStation 3 emulator and debugger
 - [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) - Lightweight CLI download accelerator
 - [SimpleMobileTools/Simple-Notes](https://github.com/SimpleMobileTools/Simple-Notes) - A simple textfield for adding quick notes without ads.
@@ -3527,7 +3537,7 @@
 - [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace Notion
 - [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB Made Easy
 - [bit-team/backintime](https://github.com/bit-team/backintime) - Back In Time - An easy-to-use backup tool for GNU/Linux using rsync in the back
-- [OctoputApp/Yaak](https://github.com/OctoputApp/Yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.
+- [getyaak/app](https://github.com/getyaak/app) - The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.
 - [hackclub/RAM-a-thon](https://github.com/hackclub/RAM-a-thon) - Just a detailed in-depth, and comprehensive explanation of how computers operate internally, focusing on RAM and CPU aspects, respectively. By @ILyesMk2
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
@@ -3641,7 +3651,7 @@
 - [ucbepic/docetl](https://github.com/ucbepic/docetl) - A system for agentic LLM-powered data processing and ETL
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [gyunggyung/AGI-Papers](https://github.com/gyunggyung/AGI-Papers) - Papers and Book to look at when starting AGI 📚
-- [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) - Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation
+- [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Open Book
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [ShelbyJenkins/llm_client](https://github.com/ShelbyJenkins/llm_client) - The Easiest Rust Interface for Local LLMs and an Interface for Deterministic Signals from Probabilistic LLM Vibes
@@ -3942,7 +3952,7 @@
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace Notion
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
-- [OctoputApp/Yaak](https://github.com/OctoputApp/Yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.
+- [getyaak/app](https://github.com/getyaak/app) - The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
@@ -4069,6 +4079,7 @@
 
 ## mobile 
 
+- [Benjamin-Dobell/Heimdall](https://github.com/Benjamin-Dobell/Heimdall) - Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung Galaxy devices.
 - [TeamAmaze/AmazeFileUtilities](https://github.com/TeamAmaze/AmazeFileUtilities) - An open source Google Files alternative for Android
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde
 - [ring-lang/ring](https://github.com/ring-lang/ring) - Simple and flexible programming language for applications development
@@ -4498,6 +4509,21 @@
 
 ## others 
 
+- [foo-dogsquared/nix-overlay-guix](https://github.com/foo-dogsquared/nix-overlay-guix) - A package and module for using GNU Guix on Nix(OS).
+- [foo-dogsquared/nixos-config](https://github.com/foo-dogsquared/nixos-config) - Aiming to be the most overkill NixOS config in the entire world.
+- [niXman/mingw-builds-binaries](https://github.com/niXman/mingw-builds-binaries) - MinGW-W64 compiler binaries
+- [mingw-w64/mingw-w64](https://github.com/mingw-w64/mingw-w64) - (Unofficial) Mirror of mingw-w64-code
+- [amo13/Heimdall](https://github.com/amo13/Heimdall) - Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung Galaxy devices. This is a fork of the original repository with a few crucial pull requests merged.
+- [CodeClimbersIO/cli](https://github.com/CodeClimbersIO/cli) - The cli for the project
+- [PuellaeMagicae/unix-in-lisp](https://github.com/PuellaeMagicae/unix-in-lisp) - Mount Unix system into Common Lisp image
+- [ekatraone/alpaca-dataset-generator](https://github.com/ekatraone/alpaca-dataset-generator) - This project generates a high-quality Alpaca-style dataset from input text files, PDFs, and Word documents.
+- [sammcj/ollama-artefacts](https://github.com/sammcj/ollama-artefacts) - Build HTML artefacts with Ollama
+- [microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe) - LLM-powered multiagent persona simulation for imagination enhancement and business insights.
+- [nix-community/flakelight](https://github.com/nix-community/flakelight) - Framework for simplifying flake setup [maintainer=@accelbread]
+- [castai/egressd](https://github.com/castai/egressd) - Kubernetes aware network traffic monitoring
+- [jc141x/releases-feed](https://github.com/jc141x/releases-feed) - All our releases scraped into various machine readable files (CSV, JSON, RSS)
+- [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
+- [google-deepmind/alphafold3](https://github.com/google-deepmind/alphafold3) - AlphaFold 3 inference pipeline.
 - [thiagokokada/nix-alien](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS
 - [LineageOS/android](https://github.com/LineageOS/android) - 
 - [save-nix-together/open-letter](https://github.com/save-nix-together/open-letter) - an open letter to the NixOS foundation
@@ -5055,7 +5081,7 @@
 - [xjdr-alt/entropix](https://github.com/xjdr-alt/entropix) - Entropy Based Sampling and Parallel CoT Decoding
 - [streetturtle/awesome-wm-widgets](https://github.com/streetturtle/awesome-wm-widgets) - Widgets for Awesome Window Manager
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
-- [Sysinternals/ProcMon-for-Linux](https://github.com/Sysinternals/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall a
+- [microsoft/ProcMon-for-Linux](https://github.com/microsoft/ProcMon-for-Linux) - A Linux version of the Procmon Sysinternals tool
 - [lotabout/rargs](https://github.com/lotabout/rargs) - xargs + awk with pattern matching support. `ls *.bak | rargs -p '(.*)\.bak' mv {0} {1}`
 - [sirupsen/napkin-math](https://github.com/sirupsen/napkin-math) - Techniques and numbers for estimating system's performance from first-principles
 - [yoheinakajima/ditto](https://github.com/yoheinakajima/ditto) - the simplest self-building coding agent
@@ -5247,7 +5273,7 @@
 - [WoefulWolf/NieR2Blender2NieR](https://github.com/WoefulWolf/NieR2Blender2NieR) - Import/Export WMB/WTP/WTA/DAT/DTT/LAY/COL files for NieR:Automata
 - [OliveThePuffin/yorha-grub-theme](https://github.com/OliveThePuffin/yorha-grub-theme) - Nier Automata Loading screen as Boot Menu
 - [starsprinter92/dotfiles-flicko-aurora-fix](https://github.com/starsprinter92/dotfiles-flicko-aurora-fix) - dotfiles go brrr
-- [Aylur/ags](https://github.com/Aylur/ags) - A customizable and extensible shell
+- [Aylur/ags](https://github.com/Aylur/ags) - Scaffolding CLI for Astal+TypeScript
 - [Aiffelowy/dotfiles](https://github.com/Aiffelowy/dotfiles) - 
 - [anteczko/Nier-Automata-Rice](https://github.com/anteczko/Nier-Automata-Rice) - It's repository for game inspired linux customization
 - [lucidrains/firefly-torch](https://github.com/lucidrains/firefly-torch) - Exploration into the Firefly algorithm in Pytorch
@@ -5612,6 +5638,7 @@
 - [Alex313031/Windows-XP-Stuffz](https://github.com/Alex313031/Windows-XP-Stuffz) - Files for Windows XP that are hard to find because Microsoft took them down, updates, and programs for XP and XP x64.
 - [rayenghanmi/RyTuneX](https://github.com/rayenghanmi/RyTuneX) - RyTuneX is a cutting-edge optimizer built with the WinUI 3 framework, designed to amplify the performance of Windows devices. Crafted for both Windows 10 and 11.
 - [FancyWM/fancywm](https://github.com/FancyWM/fancywm) - FancyWM - Dynamic Tiling Window Manager for Windows
+- [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The king is back -leaner, faster, and ready to declutter your Windows 11
 - [likejazz/llama3.np](https://github.com/likejazz/llama3.np) - llama3.np is a pure NumPy implementation for Llama 3 model.
 - [TaoHuUMD/SurMo](https://github.com/TaoHuUMD/SurMo) - 
 - [sstadick/crabz](https://github.com/sstadick/crabz) - Like pigz, but rust
@@ -5910,7 +5937,6 @@
 - [zhoushengisnoob/DeepClustering](https://github.com/zhoushengisnoob/DeepClustering) - Methods and Implements of Deep Clustering
 - [turboderp/exllamav2](https://github.com/turboderp/exllamav2) - A fast inference library for running LLMs locally on modern consumer-class GPUs
 - [tairov/llama2.mojo](https://github.com/tairov/llama2.mojo) - Inference Llama 2 in one file of pure 🔥
-- [snowtrack/snowfs](https://github.com/snowtrack/snowfs) - SnowFS v1 - a fast, scalable version control file storage for graphic files :art:
 - [tencent-ailab/IP-Adapter](https://github.com/tencent-ailab/IP-Adapter) - The image prompt adapter is designed to enable a pretrained text-to-image diffusion model to generate images with image prompt.
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [tinygrad/teenygrad](https://github.com/tinygrad/teenygrad) - If tinygrad wasn't small enough for you...
@@ -6167,6 +6193,7 @@
 
 ## python 
 
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - Containerized, state of the art Retrieval-Augmented Generation (RAG) with a RESTful API
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
@@ -7461,6 +7488,7 @@
 
 ## website 
 
+- [nix-community/builtwithnix.org](https://github.com/nix-community/builtwithnix.org) - Share the love of Nix [maintainer=@zimbatm]
 - [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [atakanaltok/awesome-useful-websites](https://github.com/atakanaltok/awesome-useful-websites) - Hand-curated list of awesome and useful websites
@@ -7502,7 +7530,7 @@
 - [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace Notion
 - [bitcookies/winrar-keygen](https://github.com/bitcookies/winrar-keygen) - Principle of WinRAR key generation.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
-- [OctoputApp/Yaak](https://github.com/OctoputApp/Yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.
+- [getyaak/app](https://github.com/getyaak/app) - The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.
 - [hackclub/RAM-a-thon](https://github.com/hackclub/RAM-a-thon) - Just a detailed in-depth, and comprehensive explanation of how computers operate internally, focusing on RAM and CPU aspects, respectively. By @ILyesMk2
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
