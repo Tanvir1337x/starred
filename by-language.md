@@ -142,6 +142,7 @@
 
 ## C 
 
+- [Whonix/kloak](https://github.com/Whonix/kloak) - 
 - [zen-kernel/zen-kernel](https://github.com/zen-kernel/zen-kernel) - Zen Patched Kernel Sources
 - [nmap/ncrack](https://github.com/nmap/ncrack) - Ncrack network authentication tool
 - [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
@@ -526,6 +527,7 @@
 
 ## C++ 
 
+- [nomacs/nomacs](https://github.com/nomacs/nomacs) - nomacs is a free image viewer for windows, linux, and mac systems.
 - [rl-tools/rl-tools](https://github.com/rl-tools/rl-tools) - The Fastest Deep Reinforcement Learning Library
 - [b4rtaz/distributed-llama](https://github.com/b4rtaz/distributed-llama) - Tensor parallelism is all you need. Run LLMs on an AI cluster at home using any device. Distribute the workload, divide RAM usage, and increase inference speed.
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
@@ -839,6 +841,7 @@
 
 ## CSS 
 
+- [akkva/gwfox](https://github.com/akkva/gwfox) - 果味🦊皮...
 - [Dook97/firefox-qutebrowser-userchrome](https://github.com/Dook97/firefox-qutebrowser-userchrome) - A minimalist userChrome.css based on qutebrowser
 - [wangqi060934/MyAndroidToolsWebsite](https://github.com/wangqi060934/MyAndroidToolsWebsite) - 
 - [gerwld/spoplus-extension](https://github.com/gerwld/spoplus-extension) - Spotify extension that allows to setup new themes, fonts, remove annoying notifications, popups and more.
@@ -1834,6 +1837,7 @@
 
 ## MDX 
 
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [6174/comflowy](https://github.com/6174/comflowy) - Unleash endless possibilities with ComfyUI and Stable Diffusion, committed to crafting refined AI-Gen tools and cultivating a vibrant community for both developers and users.
 
@@ -1993,6 +1997,7 @@
 
 ## Objective-C 
 
+- [benbaker76/EFI-Agent](https://github.com/benbaker76/EFI-Agent) - Simple, low resource, efficient and no frills tool to mount EFI partitions.
 - [cynthia/WorldWideWeb](https://github.com/cynthia/WorldWideWeb) - Last publicly available revision of the world's first web browser. This is a source import from 0.15 for NextStep. Originally written by @timbl.
 - [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
 
@@ -2007,7 +2012,6 @@
 ## Others 
 
 - [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.
-- [PKU-YuanGroup/LLaVA-CoT](https://github.com/PKU-YuanGroup/LLaVA-CoT) - LLaVA-CoT, a visual language model capable of spontaneous, systematic reasoning
 - [pantsufan/BlockAds](https://github.com/pantsufan/BlockAds) - Magisk module to block ads on android
 - [ProjectInfinity-X/manifest](https://github.com/ProjectInfinity-X/manifest) - 
 - [DavidBerdik/MACsposed](https://github.com/DavidBerdik/MACsposed) - MACsposed - Add support for MAC Address spoofing to Android 12 through 14!
@@ -2347,6 +2351,7 @@
 
 ## PHP 
 
+- [safesploitOrg/doogle](https://github.com/safesploitOrg/doogle) - Doogle is a search engine and web crawler which can search indexed websites and images
 - [BOINC/boinc](https://github.com/BOINC/boinc) - Open-source software for volunteer computing and grid computing.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [JhumanJ/OpnForm](https://github.com/JhumanJ/OpnForm) - Beautiful Open-Source Form Builder
@@ -2406,6 +2411,13 @@
 
 ## Python 
 
+- [pyro-ppl/numpyro](https://github.com/pyro-ppl/numpyro) - Probabilistic programming with NumPy powered by JAX for autograd and JIT compilation to GPU/TPU/CPU.
+- [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script) - Python Script to  add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
+- [adamkarvonen/chess_gpt_eval](https://github.com/adamkarvonen/chess_gpt_eval) - A repo to evaluate various LLM's chess playing abilities.
+- [edwko/OuteTTS](https://github.com/edwko/OuteTTS) - Interface for OuteTTS models.
+- [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
+- [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄
 - [allenai/dolma](https://github.com/allenai/dolma) - Data and tools for generating and inspecting OLMo pre-training data.
 - [allenai/OLMo](https://github.com/allenai/OLMo) - Modeling, training, eval, and inference code for OLMo
 - [allenai/open-instruct](https://github.com/allenai/open-instruct) - 
@@ -2423,6 +2435,7 @@
 - [lucidrains/streaming-deep-rl](https://github.com/lucidrains/streaming-deep-rl) - Explorations into the proposed Streaming Deep Reinforcement Learning, from University of Alberta
 - [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
 - [yjn870/SRCNN-pytorch](https://github.com/yjn870/SRCNN-pytorch) - PyTorch implementation of Image Super-Resolution Using Deep Convolutional Networks (ECCV 2014)
+- [PKU-YuanGroup/LLaVA-CoT](https://github.com/PKU-YuanGroup/LLaVA-CoT) - LLaVA-CoT, a visual language model capable of spontaneous, systematic reasoning
 - [sebulo/LoQT](https://github.com/sebulo/LoQT) - 
 - [Googlers-Repo/gmr](https://github.com/Googlers-Repo/gmr) - Googlers Magisk Repo
 - [kovidgoyal/kitty-themes](https://github.com/kovidgoyal/kitty-themes) - Themes for the kitty terminal emulator
@@ -2459,7 +2472,7 @@
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [jb2170/better-adb-sync](https://github.com/jb2170/better-adb-sync) - Completely rewritten adbsync with --exclude
 - [google/adb-sync](https://github.com/google/adb-sync) - 
-- [alterakey/trueseeing](https://github.com/alterakey/trueseeing) - Non-decompiling Android app vulnerability scanner (DC25 demo lab, CB17)
+- [alterakey/trueseeing](https://github.com/alterakey/trueseeing) - Non-decompiling iOS/Android app vulnerability scanner (DC25 demo lab, CB17)
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [SELinuxProject/refpolicy](https://github.com/SELinuxProject/refpolicy) - SELinux Reference Policy v2
 - [SELinuxProject/selinux-notebook](https://github.com/SELinuxProject/selinux-notebook) - The SELinux Notebook
@@ -2700,7 +2713,7 @@
 - [opsdisk/pagodo](https://github.com/opsdisk/pagodo) - pagodo (Passive Google Dork) - Automate Google Hacking Database scraping and searching
 - [darkoperator/dnsrecon](https://github.com/darkoperator/dnsrecon) - DNS Enumeration Script
 - [bellingcat/octosuite](https://github.com/bellingcat/octosuite) - GitHub Data Analysis Framework.
-- [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk) - Nexa SDK is a comprehensive toolkit for supporting ONNX and GGML models. It supports text generation, image generation, vision-language models (VLM), auto-speech-recognition (ASR), and text-to-speech 
+- [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk) - Nexa SDK is a comprehensive toolkit for supporting GGML and ONNX models. It supports text generation, image generation, vision-language models (VLM), Audio Language Model, auto-speech-recognition (ASR
 - [feizc/FluxMusic](https://github.com/feizc/FluxMusic) - Text-to-Music Generation with Rectified Flow Transformers
 - [thooton/muse](https://github.com/thooton/muse) - Let's create synthetic textbooks together :)
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
@@ -3137,6 +3150,10 @@
 
 ## Rust 
 
+- [spyglass-search/spyglass](https://github.com/spyglass-search/spyglass) - A personal search engine:  Create a searchable library from your personal documents, interests, and more!
+- [thomasschafer/scooter](https://github.com/thomasschafer/scooter) - Interactive find and replace in the terminal
+- [junkdog/tachyonfx](https://github.com/junkdog/tachyonfx) - shader-like effects library for ratatui applications
+- [junkdog/exabind](https://github.com/junkdog/exabind) - animated TUI for viewing KDE shortcuts
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 - [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
 - [crazyscot/qcp](https://github.com/crazyscot/qcp) - Quick File Copy using QUIC
@@ -3528,6 +3545,7 @@
 
 ## Shell 
 
+- [PhrozenByte/rmtrash](https://github.com/PhrozenByte/rmtrash) - Put files (and directories) in trash using the `trash-put` command in a way that is, otherwise as `trash-put` itself, compatible to GNUs `rm` and `rmdir`
 - [Unofficial-Life/Lawnchair-Launcher-Module](https://github.com/Unofficial-Life/Lawnchair-Launcher-Module) - Replace your stock launcher with Lawnchair Launcher module (Q to U) for Magisk and KSU (Quickswitch included)
 - [Unofficial-Life/revanced-gphotos-build](https://github.com/Unofficial-Life/revanced-gphotos-build) - Revanced Gphotos Builds
 - [saitamasahil/Pixel-Launcher-Extended](https://github.com/saitamasahil/Pixel-Launcher-Extended) - Pixel Launcher Extended is a Magisk module by TeamFiles with many cool features.
@@ -3717,6 +3735,7 @@
 
 ## TypeScript 
 
+- [prazzon/Flexbox-Labs](https://github.com/prazzon/Flexbox-Labs) - A web app for creating flexible layouts with the power of CSS Flexbox.
 - [Nutlope/llama-ocr](https://github.com/Nutlope/llama-ocr) - Document to Markdown OCR library with Llama 3.2 vision
 - [ivklgn/conway-errors](https://github.com/ivklgn/conway-errors) - Create errors with Conway law
 - [factoriolab/factoriolab](https://github.com/factoriolab/factoriolab) - Angular-based calculator for factory games like Factorio and Dyson Sphere Program
