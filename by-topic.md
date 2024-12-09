@@ -286,9 +286,9 @@
 - [dynamiq-ai/dynamiq](https://github.com/dynamiq-ai/dynamiq) - Dynamiq is an orchestration framework for agentic AI and LLM applications
 - [Jaykef/ai-algorithms](https://github.com/Jaykef/ai-algorithms) - First-principle implementations of groundbreaking AI algorithms using a wide range of deep learning frameworks, accompanied by supporting research papers.
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow your favorites in one inbox
-- [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Web interface to turn codebases into prompt-friendly text
+- [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Turn codebases into prompt-friendly text
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
-- [bhavnicksm/chonkie](https://github.com/bhavnicksm/chonkie) - 🦛 CHONK your texts with Chonkie ✨ - The no-nonsense RAG chunking library
+- [chonkie-ai/chonkie](https://github.com/chonkie-ai/chonkie) - 🦛 CHONK your texts with Chonkie ✨ - The no-nonsense RAG chunking library
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
 - [mmhamdy/open-language-models](https://github.com/mmhamdy/open-language-models) - A list of language models with permissive licenses such as MIT or Apache 2.0
@@ -390,7 +390,7 @@
 - [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, MAGNet, StyleTTS2, MMS, Stable Audio, Mars5, F5-TTS, ParlerTTS)
 - [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
-- [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - [NeurIPS 2024] SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges
+- [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
 - [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui) - Lord of Large Language Models Web User Interface
@@ -734,6 +734,7 @@
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
 - [EthicalML/xai](https://github.com/EthicalML/xai) - XAI - An eXplainability toolbox for machine learning
 - [quark-engine/quark-engine](https://github.com/quark-engine/quark-engine) - Quark Agent - Your AI-powered Android APK Analyst
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [opengeos/segment-anything](https://github.com/opengeos/segment-anything) - An unofficial Python package for Meta AI's Segment Anything Model
 - [explosion/thinc](https://github.com/explosion/thinc) - 🔮 A refreshing functional take on deep learning, compatible with your favorite libraries
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
@@ -1052,6 +1053,7 @@
 
 ## bash 
 
+- [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
 - [DeterminateSystems/nuenv](https://github.com/DeterminateSystems/nuenv) - A Nushell environment for Nix
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [neurobin/shc](https://github.com/neurobin/shc) - Shell script compiler
@@ -1276,6 +1278,7 @@
 
 ## chatgpt 
 
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) - Open-source evaluation toolkit of large vision-language models (LVLMs), support 160+ VLMs, 50+ benchmarks
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [itsmartashub/GPThemes](https://github.com/itsmartashub/GPThemes) - GPThemes is a Chrome and Firefox extension designed to improve the visual experience of ChatGPT with customisable accent colours, custom fonts, modern designs and custom chat bubble widths
@@ -1363,6 +1366,7 @@
 
 ## cli 
 
+- [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ Session manager for tmux, build on libtmux.
 - [oppiliappan/eva](https://github.com/oppiliappan/eva) - a calculator REPL, similar to bc(1)
 - [usagi-flow/evil-helix](https://github.com/usagi-flow/evil-helix) - Bringing the Helix editor to the evil side
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
@@ -1456,7 +1460,7 @@
 
 - [pragtical/pragtical](https://github.com/pragtical/pragtical) - The practical and pragmatic code editor.
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
-- [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Web interface to turn codebases into prompt-friendly text
+- [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Turn codebases into prompt-friendly text
 - [TheAlgorithms/Julia](https://github.com/TheAlgorithms/Julia) - Algorithms implemented in the Julia programming language. We're collaborating with the Humans of Julia community!
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
@@ -1527,6 +1531,7 @@
 
 ## computer-vision 
 
+- [microsoft/torchgeo](https://github.com/microsoft/torchgeo) - TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data
 - [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - 500 AI Machine learning Deep learning Computer vision NLP Projects with code
 - [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) - Open-source evaluation toolkit of large vision-language models (LVLMs), support 160+ VLMs, 50+ benchmarks
 - [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
@@ -1745,7 +1750,7 @@
 - [redcode-labs/RedNixOS](https://github.com/redcode-labs/RedNixOS) - NixOS-based 'distro' for cybersecurity enthusiasts
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
-- [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - [NeurIPS 2024] SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges
+- [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024
 
 ## dart 
 
@@ -1883,6 +1888,7 @@
 
 ## deep-learning 
 
+- [microsoft/torchgeo](https://github.com/microsoft/torchgeo) - TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data
 - [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - 500 AI Machine learning Deep learning Computer vision NLP Projects with code
 - [apache/tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
@@ -2167,6 +2173,7 @@
 
 ## dotfiles 
 
+- [27medkamal/tmux-session-wizard](https://github.com/27medkamal/tmux-session-wizard) - One prefix to control all your session creation, naming, switching, etc using fzf & zoxide
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ My nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - i hate minimalism so...
@@ -2928,6 +2935,7 @@
 
 ## hacktoberfest 
 
+- [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
 - [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
@@ -3143,7 +3151,7 @@
 - [hwittenborn/celeste](https://github.com/hwittenborn/celeste) - GUI file synchronization client that can sync with any cloud provider
 - [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works
 - [colored-rs/colored](https://github.com/colored-rs/colored) - (Rust) Coloring terminal so simple you already know how to do it !
-- [Canop/bacon](https://github.com/Canop/bacon) - background rust code check
+- [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [freedomofpress/securedrop](https://github.com/freedomofpress/securedrop) - GitHub repository for the SecureDrop whistleblower platform. Do not submit tips here!
 - [Flexget/Flexget](https://github.com/Flexget/Flexget) - The official FlexGet repository
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - A Lua code formatter
@@ -3536,6 +3544,7 @@
 
 ## json 
 
+- [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ Session manager for tmux, build on libtmux.
 - [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema specification
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [marcobambini/gravity](https://github.com/marcobambini/gravity) - Gravity Programming Language
@@ -3737,6 +3746,7 @@
 
 ## linux 
 
+- [snowfallorg/nix-editor](https://github.com/snowfallorg/nix-editor) - A simple rust program to edit NixOS configuration files with just a command
 - [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux) - Issue tracking for the Steam for Linux beta client
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administratio
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
@@ -4045,7 +4055,7 @@
 - [MiscellaneousStuff/anterion](https://github.com/MiscellaneousStuff/anterion) - Open-source software engineer
 - [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress o
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
-- [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - [NeurIPS 2024] SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges
+- [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024
 - [intel-analytics/ipex-llm](https://github.com/intel-analytics/ipex-llm) - Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Mixtral, Gemma, Phi, MiniCPM, Qwen-VL, MiniCPM-V, etc.) on Intel XPU (e.g., local PC with iGPU and NPU, discrete GPU such 
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
@@ -4271,6 +4281,7 @@
 
 ## macos 
 
+- [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [ddovod/jet-live](https://github.com/ddovod/jet-live) - c++ hot code reload for linux and macos
 - [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container.
 - [sickcodes/osx-optimizer](https://github.com/sickcodes/osx-optimizer) - OSX Optimizer: Optimize MacOS - Shell scripts to speed up your mac boot time, accelerate loading, and prevent unnecessary throttling.
@@ -4590,6 +4601,7 @@
 
 ## nextjs 
 
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [hulxv/vnstat-client](https://github.com/hulxv/vnstat-client) - GUI Client for vnStat Network Monitor for Linux or GNU/Linux
@@ -4913,6 +4925,16 @@
 
 ## others 
 
+- [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
+- [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
+- [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
+- [snowfallorg/snowboard](https://github.com/snowfallorg/snowboard) - A graphical editor for Nix expressions.
+- [MilesCranmer/rip2](https://github.com/MilesCranmer/rip2) - A safe and ergonomic alternative to rm
+- [persys-ai/persys-desktop](https://github.com/persys-ai/persys-desktop) - Persys desktop. Electron based application to access your Persys server.
+- [persys-ai/persys-server](https://github.com/persys-ai/persys-server) - Persys server. All services you need to run Persys locally.
+- [LG-AI-EXAONE/EXAONE-3.5](https://github.com/LG-AI-EXAONE/EXAONE-3.5) - Official repository for EXAONE 3.5 built by LG AI Research
+- [dagmawibabi/ScholArxiv](https://github.com/dagmawibabi/ScholArxiv) - ScholArxiv is an open-source aesthetic and minimal app that allows users to search, read, bookmark, share, download and view summaries of academic papers from the arXiv repository.
+- [TheCowboyAI/nixos-yubikey](https://github.com/TheCowboyAI/nixos-yubikey) - Projection for creating AIR-GAPPED Yubikey deployments suitable for corporate use.
 - [azukaar/awesome-cosmos-cloud](https://github.com/azukaar/awesome-cosmos-cloud) - List of tools, and resources to run your Cosmos Cloud
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
 - [xddxdd/nixos-config](https://github.com/xddxdd/nixos-config) - Lan Tian's NixOS Configuration
@@ -4924,7 +4946,7 @@
 - [regolith-linux/regolith-desktop-website](https://github.com/regolith-linux/regolith-desktop-website) - Website of regolith-desktop.com
 - [regolith-linux/ilia](https://github.com/regolith-linux/ilia) - A GTK-based Desktop Executor
 - [regolith-linux/regolith-desktop](https://github.com/regolith-linux/regolith-desktop) - Meta package for the Regolith Desktop Environment
-- [sandptel/regolith-nix](https://github.com/sandptel/regolith-nix) - This repository aims to port Regolith-Desktop to Nixos
+- [sandptel/regolith-nix](https://github.com/sandptel/regolith-nix) - This repository aims to port Regolith-Desktop to Nixos [Under Development yet Usable]
 - [whs-dot-hk/hive-group](https://github.com/whs-dot-hk/hive-group) - 
 - [R0rt1z2/lkpatcher](https://github.com/R0rt1z2/lkpatcher) - Streamline tool and module to patch bootloader (LK) images of MTK device(s).
 - [Tarsnap/spiped](https://github.com/Tarsnap/spiped) - Spiped is a utility for creating symmetrically encrypted and authenticated pipes between socket addresses.
@@ -6827,6 +6849,8 @@
 
 ## python 
 
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
+- [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ Session manager for tmux, build on libtmux.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [Serene-Arc/bulk-downloader-for-reddit](https://github.com/Serene-Arc/bulk-downloader-for-reddit) - Downloads and archives content from reddit
@@ -7043,6 +7067,7 @@
 
 ## pytorch 
 
+- [microsoft/torchgeo](https://github.com/microsoft/torchgeo) - TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data
 - [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit) - Open-source evaluation toolkit of large vision-language models (LVLMs), support 160+ VLMs, 50+ benchmarks
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [NVIDIA/kvpress](https://github.com/NVIDIA/kvpress) - LLM KV cache compression made easy
@@ -7542,7 +7567,7 @@
 - [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [rust-num/num-bigint](https://github.com/rust-num/num-bigint) - Big integer types for Rust
-- [Canop/bacon](https://github.com/Canop/bacon) - background rust code check
+- [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [zesterer/ariadne](https://github.com/zesterer/ariadne) - A fancy diagnostics & error reporting crate
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
@@ -7744,6 +7769,7 @@
 
 ## shell 
 
+- [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
 - [PhrozenByte/rmtrash](https://github.com/PhrozenByte/rmtrash) - Put files (and directories) in trash using the `trash-put` command in a way that is, otherwise as `trash-put` itself, compatible to GNUs `rm` and `rmdir`
 - [Winetricks/winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
@@ -7964,6 +7990,7 @@
 
 ## terminal 
 
+- [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ Session manager for tmux, build on libtmux.
 - [adsr/mle](https://github.com/adsr/mle) - flexible terminal-based text editor (C)
 - [rhysd/tui-textarea](https://github.com/rhysd/tui-textarea) - Simple yet powerful multi-line text editor widget for ratatui and tui-rs
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
@@ -8013,7 +8040,7 @@
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [colored-rs/colored](https://github.com/colored-rs/colored) - (Rust) Coloring terminal so simple you already know how to do it !
-- [Canop/bacon](https://github.com/Canop/bacon) - background rust code check
+- [Canop/bacon](https://github.com/Canop/bacon) - background code checker
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
 - [cmang/durdraw](https://github.com/cmang/durdraw) - Versatile ASCII and ANSI Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 256 and 16 colors, Unicode and CP437, and customizable themes
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
