@@ -2694,7 +2694,7 @@
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
 - [miekg/gitopper](https://github.com/miekg/gitopper) - Gitops for non-Kubernetes folks
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
@@ -2773,7 +2773,7 @@
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
 - [medama-io/medama](https://github.com/medama-io/medama) - Self-hostable, privacy-focused website analytics.
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [anfragment/zen](https://github.com/anfragment/zen) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
@@ -2843,7 +2843,7 @@
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
@@ -2939,6 +2939,8 @@
 
 ## hacktoberfest 
 
+- [anime-dl/anime-downloader](https://github.com/anime-dl/anime-downloader) - A simple but powerful anime downloader and streamer.
+- [matrix-org/pantalaimon](https://github.com/matrix-org/pantalaimon) - E2EE aware proxy daemon for matrix clients.
 - [modrinth/code](https://github.com/modrinth/code) - The Modrinth monorepo containing all code which powers Modrinth!
 - [erikw/tmux-powerline](https://github.com/erikw/tmux-powerline) - ⚡️ A tmux plugin giving you a hackable status bar consisting of dynamic & beautiful looking powerline segments, written purely in bash.
 - [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
@@ -3166,7 +3168,7 @@
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations
@@ -4287,6 +4289,7 @@
 
 ## macos 
 
+- [thenickdude/KVM-Opencore](https://github.com/thenickdude/KVM-Opencore) - OpenCore disk image for running macOS VMs on Proxmox/QEMU
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [ddovod/jet-live](https://github.com/ddovod/jet-live) - c++ hot code reload for linux and macos
 - [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container.
@@ -4933,6 +4936,9 @@
 
 ## others 
 
+- [Zirias/xmoji](https://github.com/Zirias/xmoji) - Plain X11 emoji keyboard
+- [Zren/mpv-osc-tethys](https://github.com/Zren/mpv-osc-tethys) - An OSC UI replacement for MPV with icons from the bomi video player. Also contains thumbnail preview and a picture-in-picture button.
+- [zaghaghi/openapi-tui](https://github.com/zaghaghi/openapi-tui) - Terminal UI to list, browse and run APIs defined with openapi spec.
 - [Francis-Rings/StableAnimator](https://github.com/Francis-Rings/StableAnimator) - We present StableAnimator, the first end-to-end ID-preserving video diffusion framework, which synthesizes high-quality videos without any post-processing, conditioned on a reference image and a seque
 - [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Comprehensive Gradio WebUI for audio processing, powered by Whisper engines (Whisper, Faster-Whisper, Whisper-Timestamped). Features Voice Changer, zero-shot Voice Cloning (E2, F5-TTS), YouTube downlo
 - [nicball/nuc-nixos-configuration](https://github.com/nicball/nuc-nixos-configuration) - 
@@ -5790,7 +5796,7 @@
 - [Equicord/Equicord](https://github.com/Equicord/Equicord) - The other cutest Discord client mod
 - [akirak/flake-templates](https://github.com/akirak/flake-templates) - A collection of barebone Nix shells for starting a project, provided as flake templates
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Crawl Smarter, Faster, Freely. For AI.
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Crawl Smarter, Faster, Freely. For AI.
 - [Junyi42/monst3r](https://github.com/Junyi42/monst3r) - Official Implementation of paper "MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion"
 - [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology.
 - [gon555551/lineberry](https://github.com/gon555551/lineberry) - Lineberry: A One-Line + Sideberry Firefox setup
@@ -6197,7 +6203,7 @@
 - [huggingface/optimum-tpu](https://github.com/huggingface/optimum-tpu) - Google TPU optimizations for transformers models
 - [Beomi/Gemma-EasyLM](https://github.com/Beomi/Gemma-EasyLM) - Train GEMMA on TPU/GPU! (Codebase for training Gemma-Ko Series)
 - [Artoriuz/glsl-chroma-from-luma-prediction](https://github.com/Artoriuz/glsl-chroma-from-luma-prediction) - CfL as a GLSL shader
-- [Artoriuz/ArtCNN](https://github.com/Artoriuz/ArtCNN) - Super-Resolution Convolutional Neural Networks as GLSL shaders for mpv
+- [Artoriuz/ArtCNN](https://github.com/Artoriuz/ArtCNN) - ArtCNN is a collection of SISR CNNs optimised for anime content.
 - [bjin/mpv-prescalers](https://github.com/bjin/mpv-prescalers) - prescalers for mpv, as user shaders
 - [starsnatched/neurasim](https://github.com/starsnatched/neurasim) - Pretty accurate simulation of neurons.
 - [pipelight/crocuda.nixos](https://github.com/pipelight/crocuda.nixos) - A set of nixos modules for paranoids and hypocondriacs
@@ -7679,7 +7685,7 @@
 - [tutao/tutanota](https://github.com/tutao/tutanota) - Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.
 - [yuuire/guide](https://github.com/yuuire/guide) - 🔏 A Complete Guide To Privacy, Security & Anonymity
 - [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
