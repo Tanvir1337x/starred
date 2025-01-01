@@ -746,6 +746,7 @@
 
 ## artificial-intelligence 
 
+- [Yuan-ManX/ai-game-devtools](https://github.com/Yuan-ManX/ai-game-devtools) - Here we will keep track of the latest AI Game Development Tools, including LLM, Agent, Code, Writer, Image, Texture, Shader, 3D Model, Animation, Video, Audio, Music, Singing Voice and Analytics. 🔥
 - [gopherdata/gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract.
 - [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python API for ElevenLabs Text to Speech.
 - [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - 500 AI Machine learning Deep learning Computer vision NLP Projects with code
@@ -809,6 +810,7 @@
 
 ## automation 
 
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [tinyfish-io/agentql](https://github.com/tinyfish-io/agentql) - AgentQL is an AI-powered query language for web scraping and automation. It uses natural language selectors to find data on any page, including authenticated content. AgentQL queries are self-healing 
@@ -922,6 +924,7 @@
 - [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
+- [NexaAI/Awesome-LLMs-on-device](https://github.com/NexaAI/Awesome-LLMs-on-device) - Awesome LLMs on Device: A Comprehensive Survey
 - [caisah/emacs.dz](https://github.com/caisah/emacs.dz) - Awesome emacs config files
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
@@ -944,6 +947,7 @@
 
 ## awesome-list 
 
+- [Yuan-ManX/ai-game-devtools](https://github.com/Yuan-ManX/ai-game-devtools) - Here we will keep track of the latest AI Game Development Tools, including LLM, Agent, Code, Writer, Image, Texture, Shader, 3D Model, Animation, Video, Audio, Music, Singing Voice and Analytics. 🔥
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [zolagonano/awesome-zeronet](https://github.com/zolagonano/awesome-zeronet) - An Awesome & curated list of ZeroNet implementations, plugins, tools, and zites.
 - [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
@@ -1020,6 +1024,7 @@
 - [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
+- [NexaAI/Awesome-LLMs-on-device](https://github.com/NexaAI/Awesome-LLMs-on-device) - Awesome LLMs on Device: A Comprehensive Survey
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and other items.
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
@@ -1215,7 +1220,7 @@
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM and embedded RISC-V architectures.
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
 - [openwall/john](https://github.com/openwall/john) - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [PQClean/PQClean](https://github.com/PQClean/PQClean) - Clean, portable, tested implementations of post-quantum cryptography
@@ -1272,7 +1277,7 @@
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [amhndu/SimpleNES](https://github.com/amhndu/SimpleNES) - An NES emulator in C++
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM and embedded RISC-V architectures.
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 - [rwengine/openrw](https://github.com/rwengine/openrw) - OpenRW "Open ReWrite" is an un-official open source recreation of the classic Grand Theft Auto III game executable
 - [OpenXcom/OpenXcom](https://github.com/OpenXcom/OpenXcom) - Open-source clone of the original X-Com 👽
@@ -1333,7 +1338,7 @@
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [verazuo/jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, code highlight
-- [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
+- [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN a
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer) - Online playground for OpenAPI tokenizers
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management 
@@ -1347,6 +1352,7 @@
 
 ## chrome 
 
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [FlareSolverr/FlareSolverrSharp](https://github.com/FlareSolverr/FlareSolverrSharp) - FlareSolverr .Net / Proxy server to bypass Cloudflare protection
 - [JingMatrix/ChromeXt](https://github.com/JingMatrix/ChromeXt) - UserScript and DevTools supports for Chromium based and WebView based browsers
 - [SchizoDuckie/DuckieTV](https://github.com/SchizoDuckie/DuckieTV) - A web application built with AngularJS to track your favorite tv-shows with semi-automagic torrent integration
@@ -1662,7 +1668,7 @@
 - [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines
 - [yacineMahdid/artificial-intelligence-and-machine-learning](https://github.com/yacineMahdid/artificial-intelligence-and-machine-learning) - A repository for implementation of artificial intelligence algorithm which includes machine learning and deep learning algorithm as well as classical AI search algorithm
 - [vpand/icpp](https://github.com/vpand/icpp) - Running C++ in anywhere like a script.
-- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [vittorioromeo/SSVOpenHexagon](https://github.com/vittorioromeo/SSVOpenHexagon) - C++20 FOSS clone of "Super Hexagon". Depends on SSVStart, SSVEntitySystem, SSVLuaWrapper, SSVMenuSystem, JSONcpp, SFML2.0. Features JSON/LUA customizable game files, a soundtrack by BOSSFIGHT, pseudo-
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
@@ -1796,7 +1802,7 @@
 - [webpwnized/mutillidae](https://github.com/webpwnized/mutillidae) - OWASP Mutillidae II is a free, open-source, deliberately vulnerable web application providing a target for web-security training. This is an easy-to-use web hacking environment designed for labs, secu
 - [GossiTheDog/HiveNightmare](https://github.com/GossiTheDog/HiveNightmare) - Exploit allowing you to read registry hives as non-admin on Windows 10 and 11
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM and embedded RISC-V architectures.
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [Athena-OS/athena-nix](https://github.com/Athena-OS/athena-nix) - Athena OS Nix configuration files focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
@@ -1947,6 +1953,7 @@
 
 ## deep-learning 
 
+- [Yuan-ManX/ai-game-devtools](https://github.com/Yuan-ManX/ai-game-devtools) - Here we will keep track of the latest AI Game Development Tools, including LLM, Agent, Code, Writer, Image, Texture, Shader, 3D Model, Animation, Video, Audio, Music, Singing Voice and Analytics. 🔥
 - [lhotse-speech/lhotse](https://github.com/lhotse-speech/lhotse) - Tools for handling speech data in machine learning projects.
 - [microsoft/torchgeo](https://github.com/microsoft/torchgeo) - TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data
 - [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - 500 AI Machine learning Deep learning Computer vision NLP Projects with code
@@ -2039,7 +2046,7 @@
 - [openai/CLIP](https://github.com/openai/CLIP) - CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image
 - [lucidrains/alphafold3-pytorch](https://github.com/lucidrains/alphafold3-pytorch) - Implementation of Alphafold 3 from Google Deepmind in Pytorch
 - [SynaLinks/HybridAGI](https://github.com/SynaLinks/HybridAGI) - The Programmable Cypher-based Neuro-Symbolic AGI that lets you program its behavior using Graph-based Prompt Programming: for people who want AI to behave as expected
-- [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
+- [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN a
 - [rsxdalv/tts-generation-webui](https://github.com/rsxdalv/tts-generation-webui) - TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, MAGNet, StyleTTS2, MMS, Stable Audio, Mars5, F5-TTS, ParlerTTS)
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
@@ -2278,7 +2285,7 @@
 - [divnix/digga](https://github.com/divnix/digga) - A flake utility library to craft shell-, home-, and hosts- environments.
 - [AN3223/dotfiles](https://github.com/AN3223/dotfiles) - 
 - [nicekoishi/dotfiles](https://github.com/nicekoishi/dotfiles) - hello there
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations
 - [TLATER/dotfiles](https://github.com/TLATER/dotfiles) - Dotfiles deployed with nix/home-manager. Feel free to take what you like!
 - [Stardust-kyun/calla](https://github.com/Stardust-kyun/calla) - Calla Desktop Environment
 - [workflow/dotfiles](https://github.com/workflow/dotfiles) - 💫 NixOS configuration files
@@ -2429,7 +2436,7 @@
 - [alnacle/awesome-emulators](https://github.com/alnacle/awesome-emulators) - A curated list of awesome open source emulators.
 - [fcambus/jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language
 - [amhndu/SimpleNES](https://github.com/amhndu/SimpleNES) - An NES emulator in C++
-- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 
 ## es6 
 
@@ -2440,6 +2447,7 @@
 
 ## ethereum 
 
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [nix-community/ethereum.nix](https://github.com/nix-community/ethereum.nix) - Nix packages and NixOS modules for the Ethereum ecosystem. [maintainers=@aldoborrero,@brianmcgee,@selfuryon]
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
 - [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website) - Ethereum.org is a primary online resource for the Ethereum community.
@@ -2468,6 +2476,7 @@
 
 ## firefox 
 
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [ttntm/minimal-one-line-firefox](https://github.com/ttntm/minimal-one-line-firefox) - Custom userChrome for Firefox to minimize the space used for url and tab bar
 - [mgastonportillo/gale-for-ff](https://github.com/mgastonportillo/gale-for-ff) - CSS files to theme Firefox with Sidebery
 - [catppuccin/firefox](https://github.com/catppuccin/firefox) - 🦊 Soothing pastel theme for Firefox
@@ -2604,6 +2613,7 @@
 
 ## game 
 
+- [clusterio/clusterio](https://github.com/clusterio/clusterio) - internet communication for factorio mods
 - [ptitSeb/hydracastlelabyrinth](https://github.com/ptitSeb/hydracastlelabyrinth) - A port to Linux (and OpenPandora / DragonBox Pyra / ODroid / PocketCHIP / GameShell / AmigaOS4 / MorphOS / Emscripten) of  Hydra Castle Labyrinth (a "metroidvania" kind of game). Status: Working.
 - [Dr-Nekoma/lyceum](https://github.com/Dr-Nekoma/lyceum) - An MMO game written in Erlang (+ PostgreSQL) + Zig (+ Raylib)
 - [jacc/awesome-discord](https://github.com/jacc/awesome-discord) - 🕹 A curated list of awesome things on Discord.
@@ -2662,6 +2672,7 @@
 
 ## game-development 
 
+- [Yuan-ManX/ai-game-devtools](https://github.com/Yuan-ManX/ai-game-devtools) - Here we will keep track of the latest AI Game Development Tools, including LLM, Agent, Code, Writer, Image, Texture, Shader, 3D Model, Animation, Video, Audio, Music, Singing Voice and Analytics. 🔥
 - [ferrumc-rs/ferrumc](https://github.com/ferrumc-rs/ferrumc) - A reimplementation of the minecraft server in rust.
 - [0xFA11/GameNetworkingResources](https://github.com/0xFA11/GameNetworkingResources) - A Curated List of Multiplayer Game Network Programming Resources
 - [mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) - A curated list of awesome Discord communities for programmers
@@ -2691,6 +2702,7 @@
 
 ## game-engine 
 
+- [Yuan-ManX/ai-game-devtools](https://github.com/Yuan-ManX/ai-game-devtools) - Here we will keep track of the latest AI Game Development Tools, including LLM, Agent, Code, Writer, Image, Texture, Shader, 3D Model, Animation, Video, Audio, Music, Singing Voice and Analytics. 🔥
 - [ferrumc-rs/ferrumc](https://github.com/ferrumc-rs/ferrumc) - A reimplementation of the minecraft server in rust.
 - [JACoders/OpenJK](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy (SP & MP) + Jedi Outcast (SP only) released by Raven Software
 - [cookgreen/OpenMB](https://github.com/cookgreen/OpenMB) - Open Source role-playing game engine for Taleworlds' Mount&Blade Series written in C# using Ogre3d Engine
@@ -2759,6 +2771,7 @@
 
 ## git 
 
+- [opensource-nepal/commitlint](https://github.com/opensource-nepal/commitlint) - commitlint is a tool designed to lint your commit messages according to the Conventional Commits standard for your pre-commit hook and GitHub Actions.
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
@@ -2796,6 +2809,7 @@
 
 ## github 
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [rhysd/github-clone-all](https://github.com/rhysd/github-clone-all) - Clone (~1000) repos matched to query on GitHub using Search API
 - [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks) - 💚 🍴 Show notable forks of GitHub repositories under their names.
 - [NirmalScaria/le-git-graph](https://github.com/NirmalScaria/le-git-graph) - Browser extension to add git graph to GitHub website.
@@ -2866,7 +2880,7 @@
 - [bakape/shamichan](https://github.com/bakape/shamichan) - anonymous realtime imageboard focused on high performance and transparent moderation
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM and embedded RISC-V architectures.
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [lmorg/murex](https://github.com/lmorg/murex) - A smarter shell and scripting environment with advanced features designed for usability, safety and productivity (eg smarter DevOps tooling)
@@ -2941,7 +2955,7 @@
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 - [xvzc/SpoofDPI](https://github.com/xvzc/SpoofDPI) - A simple and fast anti-censorship tool written in Go
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM and embedded RISC-V architectures.
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
 - [Fornaxian/pixeldrain_web](https://github.com/Fornaxian/pixeldrain_web) - Web interface for pixeldrain.com
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
@@ -3024,7 +3038,7 @@
 - [pwlgrzs/Mikrotik-Blacklist](https://github.com/pwlgrzs/Mikrotik-Blacklist) - Mikrotik friendly blacklist to filter all these damn hackers.
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [k4m4/movies-for-hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM and embedded RISC-V architectures.
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
@@ -3292,7 +3306,7 @@
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [unikraft/unikraft](https://github.com/unikraft/unikraft) - A next-generation cloud native kernel designed to unlock best-in-class performance, security primitives and efficiency savings.
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
@@ -3897,6 +3911,7 @@
 
 ## linux 
 
+- [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Open source, compact, and material designed cursor set.
 - [st3w/neo](https://github.com/st3w/neo) - Simulates the digital rain from "The Matrix" (CMatrix clone with 32-bit color and Unicode support)
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [FlashpointProject/launcher](https://github.com/FlashpointProject/launcher) - Launcher for Flashpoint Archive
@@ -4050,7 +4065,7 @@
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
-- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [EchterAlsFake/Porn_Fetch](https://github.com/EchterAlsFake/Porn_Fetch) - Cross-Platform Porn (Hub) downloader with Account Login and Searching support
 - [Bionus/imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Very customizable imageboard/booru downloader with powerful filenaming features.
 - [eromatiya/the-glorious-dotfiles](https://github.com/eromatiya/the-glorious-dotfiles) - A glorified personal dot files
@@ -4085,7 +4100,7 @@
 - [cmang/durdraw](https://github.com/cmang/durdraw) - Versatile ASCII and ANSI Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 256 and 16 colors, Unicode and CP437, and customizable themes
 - [yuuire/guide](https://github.com/yuuire/guide) - 🔏 A Complete Guide To Privacy, Security & Anonymity
 - [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
-- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations
+- [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - Our over complex system configurations
 - [OpenRCT2/OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open source re-implementation of RollerCoaster Tycoon 2 🎢
 - [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB) - Collection of decent Community-made GRUB themes. Contributions welcome!
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
@@ -4139,6 +4154,7 @@
 
 ## llm 
 
+- [lechmazur/divergent](https://github.com/lechmazur/divergent) - LLM Divergent Thinking Creativity Benchmark. LLMs generate 25 unique words that start with a given letter with no connections to each other or to 50 initial random words.
 - [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
 - [andrewkchan/yalm](https://github.com/andrewkchan/yalm) - Yet Another Language Model: LLM inference in C++/CUDA, no libraries except for I/O
 - [dynamiq-ai/dynamiq](https://github.com/dynamiq-ai/dynamiq) - Dynamiq is an orchestration framework for agentic AI and LLM applications
@@ -4175,6 +4191,7 @@
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [diegovelilla/reddit-nemesis](https://github.com/diegovelilla/reddit-nemesis) - Reddit-Nemesis is a Reddit bot that disagrees to any post, sparking debate and keeping conversations lively.
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
+- [NexaAI/Awesome-LLMs-on-device](https://github.com/NexaAI/Awesome-LLMs-on-device) - Awesome LLMs on Device: A Comprehensive Survey
 - [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk) - Nexa SDK is a comprehensive toolkit for supporting GGML and ONNX models. It supports text generation, image generation, vision-language models (VLM), Audio Language Model, auto-speech-recognition (ASR
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 - [THUDM/LongWriter](https://github.com/THUDM/LongWriter) - LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs
@@ -4502,7 +4519,7 @@
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
-- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [Bionus/imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Very customizable imageboard/booru downloader with powerful filenaming features.
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
 - [fosslife/devtools-x](https://github.com/fosslife/devtools-x) - Collection of offline first developer utilities available as non-electron desktop application. all in one place, cross-platform, 10MB app!
@@ -4828,6 +4845,7 @@
 ## nlp 
 
 - [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - 500 AI Machine learning Deep learning Computer vision NLP Projects with code
+- [chonkie-ai/chonkie](https://github.com/chonkie-ai/chonkie) - 🦛 CHONK your texts with Chonkie ✨ - The no-nonsense RAG chunking library
 - [allenai/dolma](https://github.com/allenai/dolma) - Data and tools for generating and inspecting OLMo pre-training data.
 - [mmhamdy/open-language-models](https://github.com/mmhamdy/open-language-models) - A list of language models with permissive licenses such as MIT or Apache 2.0
 - [amitness/learning](https://github.com/amitness/learning) - A log of things I'm learning
@@ -4917,6 +4935,7 @@
 
 ## npm 
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [rocketshipapps/adblockfast](https://github.com/rocketshipapps/adblockfast) - Adblock Fast is a faster ad blocker for Windows, Android, iOS, Chrome, and Opera.
@@ -4943,6 +4962,7 @@
 
 ## open-source 
 
+- [Silicasandwhich/Bibata_Cursor_Translucent](https://github.com/Silicasandwhich/Bibata_Cursor_Translucent) - Translucent Varient of the Material Based Cursor
 - [Milkshiift/GoofCord](https://github.com/Milkshiift/GoofCord) - :shield: Take control of your Discord experience with GoofCord – a highly configurable and privacy minded discord client.
 - [ferrumc-rs/ferrumc](https://github.com/ferrumc-rs/ferrumc) - A reimplementation of the minecraft server in rust.
 - [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
@@ -5122,6 +5142,19 @@
 
 ## others 
 
+- [zdaxie/PixPro](https://github.com/zdaxie/PixPro) - Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning, CVPR 2021
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
+- [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
+- [actions/setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of Python
+- [actions/setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
+- [webiny/action-conventional-commits](https://github.com/webiny/action-conventional-commits) - Ensures that all commits are following the conventional-commits standard.
+- [abaines/Resource-Marker](https://github.com/abaines/Resource-Marker) - Factorio Mod
+- [morsk/ChangeMapSettings-morsk](https://github.com/morsk/ChangeMapSettings-morsk) - Factorio mod that allows to change map and map generation settings at any time
+- [deniszholob/factorio-cheat-sheet](https://github.com/deniszholob/factorio-cheat-sheet) - Cheat Sheet for Factorio
+- [LuziferSenpai/factorio-mods](https://github.com/LuziferSenpai/factorio-mods) - 
+- [sirwart/ripsecrets](https://github.com/sirwart/ripsecrets) - A command-line tool to prevent committing secret keys into your source code
+- [psf/black-pre-commit-mirror](https://github.com/psf/black-pre-commit-mirror) - 
+- [Artentus/FactorioApiDoc](https://github.com/Artentus/FactorioApiDoc) - Factorio API documentation
 - [wube/factorio-data](https://github.com/wube/factorio-data) - Tracks changes of the lua prototype definitions in factorio inbetween releases.
 - [Saad1926Q/github-meme-wrapped](https://github.com/Saad1926Q/github-meme-wrapped) - My take on spotify wrapped but for github.
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
@@ -6112,7 +6145,7 @@
 - [Equicord/Equicord](https://github.com/Equicord/Equicord) - The other cutest Discord client mod
 - [akirak/flake-templates](https://github.com/akirak/flake-templates) - A collection of barebone Nix shells for starting a project, provided as flake templates
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Crawl Smarter, Faster, Freely. For AI.
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper
 - [Junyi42/monst3r](https://github.com/Junyi42/monst3r) - Official Implementation of paper "MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion"
 - [Losses/rune](https://github.com/Losses/rune) - Experience timeless melodies with a music player that blends classic design with modern technology.
 - [gon555551/lineberry](https://github.com/gon555551/lineberry) - Lineberry: A One-Line + Sideberry Firefox setup
@@ -6270,7 +6303,6 @@
 - [IvanGlinkin/Fast-Google-Dorks-Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan) - The OSINT project, the main idea of which is to collect all the possible Google dorks search combinations and to find the information about the specific web-site: common admin panels, the widespread f
 - [darkoperator/dnsrecon](https://github.com/darkoperator/dnsrecon) - DNS Enumeration Script
 - [punk-security/secret-magpie](https://github.com/punk-security/secret-magpie) - Secret Magpie - Secret Detection Tool
-- [NexaAI/Awesome-LLMs-on-device](https://github.com/NexaAI/Awesome-LLMs-on-device) - Awesome LLMs on Device: A Comprehensive Survey
 - [feizc/FluxMusic](https://github.com/feizc/FluxMusic) - Text-to-Music Generation with Rectified Flow Transformers
 - [thooton/muse](https://github.com/thooton/muse) - Let's create synthetic textbooks together :)
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
@@ -6908,7 +6940,7 @@
 - [wadetb/eliza](https://github.com/wadetb/eliza) - Python implementation of the Eliza chatbot
 - [YellowRoseCx/koboldcpp-rocm](https://github.com/YellowRoseCx/koboldcpp-rocm) - AI Inferencing at the Edge. A simple one-file way to run various GGML models with KoboldAI's UI with AMD ROCm offloading
 - [zhoushengisnoob/DeepClustering](https://github.com/zhoushengisnoob/DeepClustering) - Methods and Implements of Deep Clustering
-- [turboderp/exllamav2](https://github.com/turboderp/exllamav2) - A fast inference library for running LLMs locally on modern consumer-class GPUs
+- [turboderp-org/exllamav2](https://github.com/turboderp-org/exllamav2) - A fast inference library for running LLMs locally on modern consumer-class GPUs
 - [tairov/llama2.mojo](https://github.com/tairov/llama2.mojo) - Inference Llama 2 in one file of pure 🔥
 - [tencent-ailab/IP-Adapter](https://github.com/tencent-ailab/IP-Adapter) - The image prompt adapter is designed to enable a pretrained text-to-image diffusion model to generate images with image prompt.
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
@@ -7195,6 +7227,9 @@
 
 ## python 
 
+- [opensource-nepal/commitlint](https://github.com/opensource-nepal/commitlint) - commitlint is a tool designed to lint your commit messages according to the Conventional Commits standard for your pre-commit hook and GitHub Actions.
+- [python-semantic-release/python-semantic-release](https://github.com/python-semantic-release/python-semantic-release) - Automating Releases via SemVer and Commit Message Conventions
+- [nix-community/poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically [maintainer=@nebucatnetzer]
 - [ente0/hashCrack](https://github.com/ente0/hashCrack) - Python-based Hashcat wrapper for easy decryption.
 - [yelboudouri/SwitchAI](https://github.com/yelboudouri/SwitchAI) - A unified library for interacting with various AI APIs through a standardized interface.
 - [US-Artificial-Intelligence/abbey](https://github.com/US-Artificial-Intelligence/abbey) - Abbey is a self-hosted configurable AI interface with workspaces, document chats, YouTube chats, and more. Find our hosted version at https://abbey.us.ai.
@@ -7221,6 +7256,7 @@
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [Serene-Arc/bulk-downloader-for-reddit](https://github.com/Serene-Arc/bulk-downloader-for-reddit) - Downloads and archives content from reddit
 - [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - 500 AI Machine learning Deep learning Computer vision NLP Projects with code
+- [chonkie-ai/chonkie](https://github.com/chonkie-ai/chonkie) - 🦛 CHONK your texts with Chonkie ✨ - The no-nonsense RAG chunking library
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
 - [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄
@@ -7488,7 +7524,7 @@
 - [VoltaML/voltaML-fast-stable-diffusion](https://github.com/VoltaML/voltaML-fast-stable-diffusion) - Beautiful and Easy to use Stable Diffusion WebUI
 - [anapnoe/stable-diffusion-webui-ux](https://github.com/anapnoe/stable-diffusion-webui-ux) - Stable Diffusion web UI UX
 - [aqlaboratory/openfold](https://github.com/aqlaboratory/openfold) - Trainable, memory-efficient, and GPU-friendly PyTorch reproduction of AlphaFold 2
-- [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, sa
+- [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN a
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [intel-analytics/ipex-llm](https://github.com/intel-analytics/ipex-llm) - Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Mixtral, Gemma, Phi, MiniCPM, Qwen-VL, MiniCPM-V, etc.) on Intel XPU (e.g., local PC with iGPU and NPU, discrete GPU such 
 - [AutoGPTQ/AutoGPTQ](https://github.com/AutoGPTQ/AutoGPTQ) - An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.
@@ -7683,7 +7719,7 @@
 - [korcankaraokcu/PINCE](https://github.com/korcankaraokcu/PINCE) - Reverse engineering tool for linux games
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
 - [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB Made Easy
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM and embedded RISC-V architectures.
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
 - [vitalysim/Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better!
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
@@ -7933,7 +7969,7 @@
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) - A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
-- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM and embedded RISC-V architectures.
+- [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [free-explorers/veshell](https://github.com/free-explorers/veshell) - Veshell is an innovative not-desktop environment for Linux made with modern technologies like Flutter and Rust.
 - [adi1090x/widgets](https://github.com/adi1090x/widgets) - Few widgets for Eww, Elkowar’s Wacky Widgets.
@@ -8592,6 +8628,7 @@
 
 ## unity 
 
+- [Yuan-ManX/ai-game-devtools](https://github.com/Yuan-ManX/ai-game-devtools) - Here we will keep track of the latest AI Game Development Tools, including LLM, Agent, Code, Writer, Image, Texture, Shader, 3D Model, Animation, Video, Audio, Music, Singing Voice and Analytics. 🔥
 - [0xFA11/GameNetworkingResources](https://github.com/0xFA11/GameNetworkingResources) - A Curated List of Multiplayer Game Network Programming Resources
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
 
@@ -8773,6 +8810,7 @@
 
 ## windows 
 
+- [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Open source, compact, and material designed cursor set.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [FlashpointProject/launcher](https://github.com/FlashpointProject/launcher) - Launcher for Flashpoint Archive
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -8827,7 +8865,7 @@
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
-- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 - [EchterAlsFake/Porn_Fetch](https://github.com/EchterAlsFake/Porn_Fetch) - Cross-Platform Porn (Hub) downloader with Account Login and Searching support
 - [Bionus/imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Very customizable imageboard/booru downloader with powerful filenaming features.
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
